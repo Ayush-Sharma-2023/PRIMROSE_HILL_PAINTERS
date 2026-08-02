@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream-50 text-charcoal-800 font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block px-8 py-3 bg-charcoal-800 text-white text-sm font-medium tracking-widest uppercase transition-all duration-300 hover:bg-rust-700 hover:-translate-y-px;
+  }
+
+  .btn-outline {
+    @apply inline-block px-8 py-3 border border-charcoal-800 text-charcoal-800 text-sm font-medium tracking-widest uppercase transition-all duration-300 hover:bg-charcoal-800 hover:text-white;
+  }
+
+  .section-label {
+    @apply text-xs font-medium tracking-[0.25em] uppercase text-rust-600 mb-3;
+  }
+
+  .section-heading {
+    @apply font-serif text-3xl md:text-4xl text-charcoal-800 leading-tight;
+  }
+}
+
+/* Hero slider */
+.hero-slide {
+  transition: opacity 1s ease-in-out;
+}
+
+/* Parallax section */
+.parallax-bg {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .parallax-bg {
+    background-attachment: scroll;
+  }
+}
+
+/* Side panel */
+.side-panel-enter {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+.side-panel-open {
+  transform: translateX(0);
+  opacity: 1;
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.3s ease;
+}
+
+/* Services grid hover */
+.service-card {
+  @apply transition-all duration-300;
+}
+
+.service-card:hover {
+  @apply shadow-lg -translate-y-1;
+}
+
+/* FAQ accordion */
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.3s ease;
+}
+
+.faq-answer.open {
+  max-height: 300px;
+}
+
+/* WhatsApp bubble */
+.whatsapp-bubble {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F5F3EE;
+}
+::-webkit-scrollbar-thumb {
+  background: #9B4A18;
+  border-radius: 3px;
+}
