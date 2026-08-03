@@ -1,22 +1,22 @@
 export const HERO_IMAGES = [
   {
-    url: 'https://images.pexels.com/photos/12905339/pexels-photo-12905339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    url: 'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-18-1.webp',
     alt: 'Luxurious London interior with ornate chandelier',
   },
   {
-    url: 'https://images.pexels.com/photos/34415859/pexels-photo-34415859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    url: 'https://jrslinteriors.co.uk/wp-content/uploads/2023/06/high-end-painter-chelsea.jpg',
     alt: 'Opulent London interior with spiral staircase',
   },
   {
-    url: 'https://images.pexels.com/photos/8092437/pexels-photo-8092437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    url: 'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-13-1.jpg',
     alt: 'Elegant home interior with wooden floors',
   },
   {
-    url: 'https://images.pexels.com/photos/13130038/pexels-photo-13130038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    url: 'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-12-1.jpg',
     alt: 'Elegant red walls and classic paintings',
   },
   {
-    url: 'https://images.pexels.com/photos/37150070/pexels-photo-37150070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    url: 'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-20-1.webp',
     alt: 'Luxurious historical room interior',
   },
 ];
@@ -25,10 +25,10 @@ export const PARALLAX_BG =
   'https://images.pexels.com/photos/16667313/pexels-photo-16667313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940';
 
 export const SERVICES_PHOTO =
-  'https://images.pexels.com/photos/8481711/pexels-photo-8481711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940';
+  'https://jrslinteriors.co.uk/wp-content/uploads/2019/07/about.jpg';
 
 export const FAQ_PHOTO =
-  'https://images.pexels.com/photos/6538945/pexels-photo-6538945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940';
+  'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-20-1.webp';
 
 export const NAV_LINKS = [
   { label: 'Home', href: '/' },
