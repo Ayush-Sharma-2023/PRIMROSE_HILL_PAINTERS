@@ -110,3 +110,42 @@
   background: #9B4A18;
   border-radius: 3px;
 }
+
+@layer components {
+
+  .blog-content {
+    @apply text-charcoal-600 text-lg leading-8;
+  }
+
+  .blog-content h2 {
+    @apply font-serif text-3xl text-charcoal-800 mt-14 mb-6 leading-tight;
+  }
+
+  .blog-content h3 {
+    @apply font-serif text-2xl text-charcoal-800 mt-10 mb-4;
+  }
+
+  .blog-content p {
+    @apply mb-6;
+  }
+
+  .blog-content ul {
+    @apply list-disc pl-6 mb-8;
+  }
+
+  .blog-content ol {
+    @apply list-decimal pl-6 mb-8;
+  }
+
+  .blog-content li {
+    @apply mb-2;
+  }
+
+  .blog-content a {
+    @apply text-rust-600 underline underline-offset-2;
+  }
+
+  .blog-content strong {
+    @apply text-charcoal-800 font-semibold;
+  }
+}
