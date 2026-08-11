@@ -6,6 +6,7 @@ import Services from '@/pages/Services';
 import ServiceDetail from '@/pages/services/ServiceDetail';
 import Blog from '@/pages/Blog';
 import Contact from '@/pages/Contact';
+import BlogCard from '@/pages/BlogCard';
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/services/:slug" element={<ServiceDetail />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogCard />} />
           <Route path="/contact" element={<Contact />} />
         </Route>
       </Routes>
