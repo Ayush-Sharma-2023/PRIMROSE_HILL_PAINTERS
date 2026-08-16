@@ -6,6 +6,7 @@ import Services from '@/pages/Services';
 import ServiceDetail from '@/pages/services/ServiceDetail';
 import Blog from '@/pages/Blog';
 import Contact from '@/pages/Contact';
+import Temp from '@/pages/Temp';
 import BlogCard from '@/pages/BlogCard';
 
 export default function App() {
@@ -20,6 +21,7 @@ export default function App() {
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/:slug" element={<BlogCard />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/temp" element={<Temp />} />
         </Route>
       </Routes>
     </BrowserRouter>
