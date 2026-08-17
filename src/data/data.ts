@@ -21,6 +21,7 @@ const siteData = {
     buttonHref: "#about",
   },
 
+  
   craftsmanship: {
     image: "",
     imageAlt: "Paint colours and decorating materials",
