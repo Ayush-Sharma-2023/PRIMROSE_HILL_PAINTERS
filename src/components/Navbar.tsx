@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <>
       <header className="fixed top-0 left-0 right-0 z-40 border-b bg-cream-50/95 backdrop-blur-sm border-cream-200">
-        <div className="flex items-center justify-between h-20 px-5 md:px-10">
+        <div className="flex items-center justify-between h-20 px-5 md:px-20">
           <Logo />
           <button
             onClick={() => setOpen(true)}

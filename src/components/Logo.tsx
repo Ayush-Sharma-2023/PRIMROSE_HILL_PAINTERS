@@ -11,7 +11,7 @@ export default function Logo({ className = '' }: { className?: string }) {
       <img
         src={logo}
         alt="Primrose Hill Painters"
-        className="h-10 w-auto"
+        className="w-auto h-20"
       />
     </Link>
   );

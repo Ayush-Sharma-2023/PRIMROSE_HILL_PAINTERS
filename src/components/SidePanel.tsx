@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { X, Plus } from 'lucide-react';
-import { SERVICES } from '@/data/services';
+import SERVICES from '@/data/services';
 
 export default function SidePanel({
   open,
