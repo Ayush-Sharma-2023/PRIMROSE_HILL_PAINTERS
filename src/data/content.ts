@@ -1,3 +1,5 @@
+// src/data/content.ts
+
 export const HERO_IMAGES = [
   {
     url: 'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-18-1.webp',

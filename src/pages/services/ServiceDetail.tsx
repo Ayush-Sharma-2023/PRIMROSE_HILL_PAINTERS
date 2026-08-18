@@ -1,3 +1,4 @@
+// src/pages/services/ServiceDetail.tsx
 import { useParams, Navigate } from 'react-router-dom';
 import { PageHero, PageSection, CtaSection } from '@/components/PageTemplate';
 import { NAV_LINKS } from '@/data/content';

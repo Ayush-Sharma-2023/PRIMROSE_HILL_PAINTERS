@@ -1,3 +1,4 @@
+// src/data/data.ts
 const siteData = {
   hero: {
     image: "",
@@ -21,7 +22,7 @@ const siteData = {
     buttonHref: "#about",
   },
 
-  
+
   craftsmanship: {
     image: "",
     imageAlt: "Paint colours and decorating materials",
