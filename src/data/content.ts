@@ -32,36 +32,4 @@ export const SERVICES_PHOTO =
 export const FAQ_PHOTO =
   'https://jrslinteriors.co.uk/wp-content/uploads/2025/01/LATEST-PROJECTS-20-1.webp';
 
-export const NAV_LINKS = [
-  { label: 'Home', href: '/' },
-  { label: 'About Us', href: '/about-us' },
-  {
-    label: 'Services',
-    href: '/services',
-    children: [
-      { label: 'Professional Worksite Protection', href: '/services/worksite-protection' },
-      { label: 'Modern & Traditional Paint Finishes', href: '/services/paint-finishes' },
-      { label: 'French Polishing & Furniture Restoration', href: '/services/french-polishing' },
-      { label: 'Decorative Effects & Specialist Finishes', href: '/services/decorative-effects' },
-      { label: 'Woodwork & Cornice Restoration', href: '/services/woodwork-cornice' },
-      { label: 'Spray Painting Applications', href: '/services/spray-painting' },
-      { label: 'Wallcoverings & Wallpaper Hanging', href: '/services/wallcoverings' },
-      { label: 'Hand Painted Kitchens & Joinery', href: '/services/hand-painted-kitchens' },
-      { label: 'Exterior Restoration & Decoration', href: '/services/exterior-restoration' },
-    ],
-  },
-  { label: 'Blog', href: '/blog' },
-  { label: 'Contact Us', href: '/contact' },
-];
-
-export const FOOTER_SERVICES = [
-  { label: 'Professional Worksite Protection', href: '/services/worksite-protection' },
-  { label: 'Modern & Traditional Paint Finishes', href: '/services/paint-finishes' },
-  { label: 'Wallcoverings & Wallpaper Hanging', href: '/services/wallcoverings' },
-  { label: 'French Polishing & Furniture Restoration', href: '/services/french-polishing' },
-  { label: 'Decorative Effects & Specialist Finishes', href: '/services/decorative-effects' },
-  { label: 'Woodwork & Cornice Restoration', href: '/services/woodwork-cornice' },
-  { label: 'Spray Painting Application', href: '/services/spray-painting' },
-  { label: 'Hand-Painted Kitchen Joinery', href: '/services/hand-painted-kitchens' },
-  { label: 'Exterior Restoration & Decoration', href: '/services/exterior-restoration' },
-];
+  

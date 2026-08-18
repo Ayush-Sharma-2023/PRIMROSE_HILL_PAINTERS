@@ -1,142 +1,308 @@
 // src/pages/services/ServiceDetail.tsx
-import { useParams, Navigate } from 'react-router-dom';
-import { PageHero, PageSection, CtaSection } from '@/components/PageTemplate';
-import { NAV_LINKS } from '@/data/content';
 
-const SERVICE_DETAILS: Record<string, { description: string; points: string[]; bgImage: string }> = {
-  'worksite-protection': {
-    description:
-      'Before any work begins, we carefully protect floors, furniture, fixtures and surfaces throughout your home. Using dust-control systems, protective coverings and clean working practices, we minimise disruption and keep your property in pristine condition throughout the decoration process.',
-    points: [
-      'Dust-control systems and sealed work zones',
-      'Protection of floors, furniture and fixtures',
-      'Clean, low-dust methods throughout',
-      'Careful removal and repositioning of coverings',
-    ],
-    bgImage: 'https://images.pexels.com/photos/6474347/pexels-photo-6474347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'paint-finishes': {
-    description:
-      'We apply both modern and traditional paint finishes, selecting the right products and methods for each surface. From flat matt emulsions to durable eggshell and gloss trims, every finish is carefully prepared and applied for a consistent, lasting result.',
-    points: [
-      'Modern and traditional paint systems',
-      'Surface-specific product selection',
-      'Meticulous preparation and priming',
-      'Consistent, high-quality brush and roller finishes',
-    ],
-    bgImage: 'https://images.pexels.com/photos/8481711/pexels-photo-8481711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'french-polishing': {
-    description:
-      'French polishing is a traditional technique that produces a deep, rich finish on fine woodwork. We restore and refinish antique furniture, doors and joinery using shellac and hand-applied methods that bring out the natural beauty of the timber.',
-    points: [
-      'Traditional shellac French polishing',
-      'Furniture and antique restoration',
-      'Wood colour matching and blending',
-      'Repair of scratches, water marks and wear',
-    ],
-    bgImage: 'https://images.pexels.com/photos/6587899/pexels-photo-6587899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'decorative-effects': {
-    description:
-      'From hand-mixed glazes to gilding and trompe l\u2019oeil, our decorative effects add character and depth to interiors. We work with specialist finishes that require advanced technical skill and a deep understanding of materials.',
-    points: [
-      'Hand-mixed glazes and decorative paints',
-      'Gilding, verre \u00e9glomis\u00e9 and specialist effects',
-      'Cornice and mouldings detailing',
-      'Bespoke finishes tailored to your interior',
-    ],
-    bgImage: 'https://images.pexels.com/photos/13130038/pexels-photo-13130038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'woodwork-cornice': {
-    description:
-      'Period homes often feature intricate cornicing, architraves and woodwork that require careful restoration. We repair, prepare and redecorate these details to preserve the architectural character of your property.',
-    points: [
-      'Cornice, architrave and moulding restoration',
-      'Repair of damaged or missing details',
-      'Careful preparation of aged woodwork',
-      'Finishes that preserve period character',
-    ],
-    bgImage: 'https://images.pexels.com/photos/12905339/pexels-photo-12905339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'spray-painting': {
-    description:
-      'For surfaces that demand a flawless, factory-quality finish, we use controlled spray systems. Spray painting is ideal for kitchens, joinery and large surfaces where a perfectly smooth result is required.',
-    points: [
-      'Controlled spray application systems',
-      'Factory-quality smooth finishes',
-      'Ideal for cabinetry and joinery',
-      'Dust-controlled, professional environment',
-    ],
-    bgImage: 'https://images.pexels.com/photos/6474200/pexels-photo-6474200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'wallcoverings': {
-    description:
-      'We install a wide range of wallcoverings, from traditional papers to contemporary fabrics and specialist finishes. Precise pattern matching and careful handling ensure a seamless result.',
-    points: [
-      'Specialist papers and fabric wallcoverings',
-      'Precise pattern matching and alignment',
-      'Surface preparation and lining paper',
-      'Contemporary and traditional installations',
-    ],
-    bgImage: 'https://images.pexels.com/photos/8092437/pexels-photo-8092437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'hand-painted-kitchens': {
-    description:
-      'Transform your kitchen with a hand-painted finish. We prepare and paint cabinetry, doors and fitted joinery using durable, furniture-grade paints applied by hand for a bespoke, lasting finish.',
-    points: [
-      'Hand-applied furniture-grade paints',
-      'Full preparation of cabinetry and doors',
-      'Bespoke colour matching',
-      'Durable, wipeable finishes',
-    ],
-    bgImage: 'https://images.pexels.com/photos/38311100/pexels-photo-38311100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-  'exterior-restoration': {
-    description:
-      'We protect and enhance the exterior of your property, from façades and render to timber and architectural details. Our exterior work is built to withstand London weather while preserving the character of the building.',
-    points: [
-      'Façade, render and masonry painting',
-      'Timber restoration and protection',
-      'Architectural detail preservation',
-      'Weather-resistant coating systems',
-    ],
-    bgImage: 'https://images.pexels.com/photos/18729245/pexels-photo-18729245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  },
-};
+import { useParams, Navigate } from 'react-router-dom';
+import {
+  PageHero,
+  PageSection,
+  CtaSection,
+} from '@/components/PageTemplate';
+import SERVICES from '@/data/services';
 
 export default function ServiceDetail() {
   const { slug } = useParams<{ slug: string }>();
-  const services = NAV_LINKS.find((l) => l.label === 'Services')?.children ?? [];
-  const service = services.find((s) => s.href === `/services/${slug}`);
-  const detail = slug ? SERVICE_DETAILS[slug] : undefined;
 
-  if (!service || !detail) {
+  const service = SERVICES.find((item) => item.slug === slug);
+
+  if (!service) {
     return <Navigate to="/services" replace />;
   }
 
   return (
     <>
+      {/* Hero */}
       <PageHero
         label="Service"
-        title={service.label}
-        bgImage={detail.bgImage}
+        title={service.hero?.title || service.title}
+        subtitle={service.hero?.subtitle}
+        bgImage={service.hero?.image}
       />
-      <PageSection bg="white">
-        <div className="max-w-3xl mx-auto">
-          <p className="text-charcoal-500 leading-relaxed text-lg mb-8">{detail.description}</p>
-          <h2 className="font-serif text-2xl text-charcoal-800 mb-6">What We Offer</h2>
-          <ul className="space-y-3">
-            {detail.points.map((p) => (
-              <li key={p} className="flex items-start gap-3 text-charcoal-600">
-                <span className="w-1.5 h-1.5 bg-rust-700 mt-2.5 shrink-0" />
-                {p}
-              </li>
-            ))}
-          </ul>
-        </div>
-      </PageSection>
-      <CtaSection />
+
+      {/* Service Content */}
+      {service.sections?.map((section, index) => {
+        switch (section.type) {
+          case 'text':
+            return (
+              <PageSection key={index} bg="white">
+                <div className="max-w-3xl mx-auto">
+                  {section.title && (
+                    <h2 className="mb-6 font-serif text-2xl text-charcoal-800">
+                      {section.title}
+                    </h2>
+                  )}
+
+                  {section.subtitle && (
+                    <p className="mb-6 text-lg text-charcoal-500">
+                      {section.subtitle}
+                    </p>
+                  )}
+
+                  {section.paragraphs?.map((paragraph, i) => (
+                    <p
+                      key={i}
+                      className="mb-5 leading-relaxed text-charcoal-600"
+                    >
+                      {paragraph}
+                    </p>
+                  ))}
+                </div>
+              </PageSection>
+            );
+
+          case 'bullets':
+            return (
+              <PageSection key={index} bg="white">
+                <div className="max-w-3xl mx-auto">
+                  {section.title && (
+                    <h2 className="mb-6 font-serif text-2xl text-charcoal-800">
+                      {section.title}
+                    </h2>
+                  )}
+
+                  <ul className="space-y-3">
+                    {section.items?.map((item, i) => (
+                      <li
+                        key={i}
+                        className="flex items-start gap-3 text-charcoal-600"
+                      >
+                        <span className="w-1.5 h-1.5 mt-2.5 bg-rust-700 shrink-0" />
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </PageSection>
+            );
+
+          case 'image-text':
+            return (
+              <PageSection key={index} bg="cream">
+                <div className="grid items-center gap-10 md:grid-cols-2">
+                  {section.image && (
+                    <img
+                      src={section.image}
+                      alt={section.imageAlt || section.title || ''}
+                      className="object-cover w-full h-full min-h-[300px]"
+                    />
+                  )}
+
+                  <div>
+                    {section.title && (
+                      <h2 className="mb-6 font-serif text-2xl text-charcoal-800">
+                        {section.title}
+                      </h2>
+                    )}
+
+                    {section.subtitle && (
+                      <p className="mb-5 text-lg text-charcoal-500">
+                        {section.subtitle}
+                      </p>
+                    )}
+
+                    {section.paragraphs?.map((paragraph, i) => (
+                      <p
+                        key={i}
+                        className="mb-5 leading-relaxed text-charcoal-600"
+                      >
+                        {paragraph}
+                      </p>
+                    ))}
+                  </div>
+                </div>
+              </PageSection>
+            );
+
+          case 'image':
+            return (
+              <PageSection key={index} bg="white">
+                {section.image && (
+                  <img
+                    src={section.image}
+                    alt={section.imageAlt || section.title || ''}
+                    className="object-cover w-full max-h-[600px]"
+                  />
+                )}
+
+                {section.title && (
+                  <h2 className="mt-6 font-serif text-2xl text-charcoal-800">
+                    {section.title}
+                  </h2>
+                )}
+              </PageSection>
+            );
+
+          case 'faq':
+            return (
+              <PageSection key={index} bg="cream">
+                <div className="max-w-3xl mx-auto">
+                  {section.title && (
+                    <h2 className="mb-8 font-serif text-2xl text-charcoal-800">
+                      {section.title}
+                    </h2>
+                  )}
+
+                  <div className="space-y-6">
+                    {section.faqs?.map((faq, i) => (
+                      <div key={i}>
+                        <h3 className="mb-2 font-medium text-charcoal-800">
+                          {faq.question}
+                        </h3>
+
+                        <p className="leading-relaxed text-charcoal-600">
+                          {faq.answer}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </PageSection>
+            );
+
+          case 'testimonials':
+            return (
+              <PageSection key={index} bg="white">
+                <div className="grid gap-6 md:grid-cols-3">
+                  {section.testimonials?.map((testimonial, i) => (
+                    <div
+                      key={i}
+                      className="p-6 border border-cream-200 bg-cream-50"
+                    >
+                      <p className="mb-4 leading-relaxed text-charcoal-600">
+                        "{testimonial.text}"
+                      </p>
+
+                      <p className="font-medium text-charcoal-800">
+                        {testimonial.name}
+                      </p>
+
+                      {testimonial.rating && (
+                        <p className="mt-1 text-sm text-rust-700">
+                          {'★'.repeat(testimonial.rating)}
+                        </p>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </PageSection>
+            );
+
+          case 'case-study':
+            return (
+              <PageSection key={index} bg="cream">
+                <div className="max-w-4xl mx-auto">
+                  {section.title && (
+                    <h2 className="mb-8 font-serif text-2xl text-charcoal-800">
+                      {section.title}
+                    </h2>
+                  )}
+
+                  {section.caseStudy?.clientDetails && (
+                    <div className="mb-8">
+                      <h3 className="mb-3 font-medium text-charcoal-800">
+                        Client Details
+                      </h3>
+
+                      <ul className="space-y-2 text-charcoal-600">
+                        {section.caseStudy.clientDetails.map((item, i) => (
+                          <li key={i}>{item}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {section.caseStudy?.challenge && (
+                    <div className="mb-8">
+                      <h3 className="mb-3 font-medium text-charcoal-800">
+                        The Challenge
+                      </h3>
+
+                      <p className="leading-relaxed text-charcoal-600">
+                        {section.caseStudy.challenge}
+                      </p>
+                    </div>
+                  )}
+
+                  {section.caseStudy?.solution && (
+                    <div className="mb-8">
+                      <h3 className="mb-3 font-medium text-charcoal-800">
+                        The Solution
+                      </h3>
+
+                      <ul className="space-y-2 text-charcoal-600">
+                        {section.caseStudy.solution.map((step, i) => (
+                          <li key={i}>{step}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {section.caseStudy?.result && (
+                    <div className="mb-8">
+                      <h3 className="mb-3 font-medium text-charcoal-800">
+                        The Result
+                      </h3>
+
+                      <p className="leading-relaxed text-charcoal-600">
+                        {section.caseStudy.result}
+                      </p>
+                    </div>
+                  )}
+
+                  {section.caseStudy?.quote && (
+                    <blockquote className="p-6 italic bg-white border-l-4 border-rust-700 text-charcoal-600">
+                      "{section.caseStudy.quote}"
+                    </blockquote>
+                  )}
+                </div>
+              </PageSection>
+            );
+
+          case 'services-list':
+            return (
+              <PageSection key={index} bg="cream">
+                <div className="max-w-5xl mx-auto">
+                  {section.title && (
+                    <h2 className="mb-8 font-serif text-2xl text-charcoal-800">
+                      {section.title}
+                    </h2>
+                  )}
+
+                  <div className="grid gap-6 md:grid-cols-2">
+                    {section.services?.map((item, i) => (
+                      <div
+                        key={i}
+                        className="p-6 bg-white border border-cream-200"
+                      >
+                        <h3 className="mb-2 font-serif text-xl text-charcoal-800">
+                          {item.title}
+                        </h3>
+
+                        <p className="leading-relaxed text-charcoal-600">
+                          {item.description}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </PageSection>
+            );
+
+          default:
+            return null;
+        }
+      })}
+
+      {/* CTA */}
+      {service.cta ? <CtaSection /> : null}
     </>
   );
 }
