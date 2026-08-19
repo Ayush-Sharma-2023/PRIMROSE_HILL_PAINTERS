@@ -1,6 +1,6 @@
 import { useParams, Navigate } from "react-router-dom";
 import Header from "@/components/HeroSlider";
-import Footer from "@/components/Footer";
+// import Footer from "@/components/Footer";
 import siteData from "@/data/data";
 
 export default function ServiceDetail() {
@@ -276,13 +276,13 @@ export default function ServiceDetail() {
         </section>
       </main>
 
-      <Footer />
-
+      {/* <Footer /> */}
+<a
       
         href={site.whatsappHref}
         aria-label="Contact Primrose Hill Painters on WhatsApp"
         className="fixed bottom-5 right-5 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-[#06165f] text-white shadow-lg transition hover:scale-105"
-      <a>
+      >
         <svg
           viewBox="0 0 24 24"
           className="h-7 w-7 fill-none stroke-current"
