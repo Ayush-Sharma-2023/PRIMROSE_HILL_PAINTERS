@@ -68,10 +68,10 @@ export default function ServiceDetail() {
               ))}
             </ul>
 
-            
+            <a
               href={site.trustButtonHref}
               className="mt-7 bg-[#df5955] px-7 py-3 text-sm font-semibold uppercase tracking-wide transition hover:bg-[#c94743]"
-            <a>
+            >
               {site.trustButtonLabel}
             </a>
           </div>
@@ -277,7 +277,7 @@ export default function ServiceDetail() {
       </main>
 
       {/* <Footer /> */}
-<a
+{/* <a
       
         href={site.whatsappHref}
         aria-label="Contact Primrose Hill Painters on WhatsApp"
@@ -292,7 +292,7 @@ export default function ServiceDetail() {
           <path d="M20 11.5a8.2 8.2 0 0 1-12.5 7L4 20l1.5-3.3A8.2 8.2 0 1 1 20 11.5Z" />
           <path d="M9 8.2c.3-.3.6-.3.9-.1l1 .8c.3.2.3.5.2.8l-.5.8c.6 1.1 1.4 1.9 2.5 2.5l.8-.5c.3-.2.6-.1.8.2l.8 1c.2.3.2.6-.1.9-.5.5-1.1.7-1.7.5-3.2-.8-5.6-3.2-6.4-6.4-.2-.6 0-1.2.5-1.7Z" />
         </svg>
-      </a>
+      </a> */}
     </>
   );
 }

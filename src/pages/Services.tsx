@@ -21,7 +21,7 @@ export default function Services() {
               </h2>
 
               <p className="text-gray-600">
-                {site.heroDescription}
+                {site.heroTitle}
               </p>
 
               <span className="mt-5 inline-block font-medium">

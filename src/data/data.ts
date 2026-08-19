@@ -2,7 +2,6 @@ const siteData = [
   {
     slug: "holland-park",
 
-    heroImage: "",
     heroImageAlt: "Luxury interior painting and decorating",
     heroTitle:
       "Primrose Hill Painters – Professional Painting & Decorating Services in Holland Park",
@@ -189,8 +188,200 @@ const siteData = [
     ctaButtonLabel: "Book Consultation",
     ctaButtonHref: "#contact",
 
-    whatsappHref: "https://wa.me/447788516436",
   },
+  
+{
+  slug: "hyde-park-w2-painters-decorators",
+
+  heroImageAlt: "Luxury interior painting and decorating",
+  heroTitle:
+    "Hyde Park W2 Painters & Decorators – Professional Painting & Decorating Services in Hyde Park",
+  heroDescription:
+    "At Primrose Hill Painters, we provide careful painting, decorating, restoration and finishing services for homeowners, landlords and property managers across Hyde Park and surrounding Central London areas. We work on period townhouses, luxury apartments and modern residences, delivering high-quality finishes with attention to detail, minimal disruption and a strong focus on long-term durability. Our team combines traditional craftsmanship with modern decorating methods to achieve consistent results.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters Is Trusted in Hyde Park",
+  trustPoints: [
+    "Over twenty years of experience working on period properties, listed buildings and premium homes across Central London.",
+    "Our decorators regularly collaborate with architects, interior designers and property professionals on complex refurbishment projects.",
+    "We use premium paints, specialist preparation methods and proven restoration techniques to achieve durable finishes.",
+    "Fully insured working practices, careful protection systems and transparent communication help clients feel confident throughout every project.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Preserving Character While Delivering Modern Performance",
+  craftsmanshipParagraphs: [
+    "Every property requires a different approach. Some Hyde Park homes feature original cornices, decorative plasterwork and timber joinery. Others contain contemporary interiors requiring precise modern finishes.",
+    "Our philosophy is simple. We focus on preparation first, use carefully selected materials and follow proven decorating methods. This approach protects architectural features while achieving a finish that performs well over time.",
+    "Our experience with heritage buildings and luxury properties allows us to balance traditional craftsmanship with modern expectations.",
+  ],
+
+  propertiesTitle: "Understanding Property Expectations",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant luxury residential interior",
+  propertiesParagraphs: [
+    "Hyde Park W2 includes luxury apartments, historic terraces, embassies, investment properties and high-value residential buildings. Many properties require decorators who understand premium finishes, careful project management and low-disruption working practices.",
+    "We regularly work across Central London on projects where attention to detail, furniture protection and discreet working methods are essential. Our experience helps us deliver consistent standards while respecting the unique character of each property.",
+    "The City of Westminster has a resident population of approximately 211,000 people, while Central London continues to attract substantial residential investment. This creates ongoing demand for high-quality property maintenance and refurbishment services.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Luxury Hyde Park apartment interior",
+  caseStudyTitle: "Complete Interior Restoration for a Hyde Park Apartment",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Client: Alexander Foster",
+    "Property Type: Luxury Apartment",
+    "Location: Hyde Park W2",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Mr Foster had recently purchased a high-value apartment overlooking Hyde Park. Previous decorating work had left visible roller marks, uneven wall finishes and poorly restored woodwork. Several rooms received strong natural light, exposing imperfections throughout the property. The client also wanted the project completed before a family relocation deadline.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Completed a full property assessment of walls, ceilings, woodwork and existing coatings.",
+    "Step 2: Repaired damaged areas, filled and sanded minor cracks, and restored woodwork before finishing.",
+    "Step 3: Protected furniture, flooring and fixed features using professional sheeting systems.",
+    "Step 4: Applied premium paints using techniques suitable for high-end residential interiors.",
+    "Step 5: Inspected every room under natural and artificial lighting before final handover.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The apartment achieved a consistent finish throughout. Decorative features were enhanced, natural light reflected evenly and the property was ready ahead of schedule.",
+
+  caseStudyQuote:
+    "We were concerned after seeing the condition of the previous decorating work. Simon and his team immediately inspired confidence. They explained every stage clearly, protected the apartment properly and paid attention to details other contractors had ignored. The finish is exceptional throughout. Friends visiting the property regularly comment on the quality of the workmanship. The project was completed exactly when promised and the experience was professional from start to finish.",
+
+  servicesTitle: "Our Hyde Park W2 Painting & Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated luxury residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting Hyde Park W2",
+      description:
+        "Professional wall, ceiling and woodwork finishes for apartments, houses and luxury residences.",
+    },
+    {
+      title: "Exterior Painting Hyde Park W2",
+      description:
+        "Protective coatings and decorative finishes designed for London's changing weather conditions.",
+    },
+    {
+      title: "Wallpaper Hanging Hyde Park W2",
+      description:
+        "Accurate installation of luxury wallcoverings and specialist wallpapers.",
+    },
+    {
+      title: "Woodwork Restoration Hyde Park W2",
+      description:
+        "Careful repair and finishing of doors, mouldings, panelling and joinery.",
+    },
+    {
+      title: "Heritage Property Decorating Hyde Park W2",
+      description:
+        "Specialist decorating solutions for period homes and conservation-sensitive buildings.",
+    },
+    {
+      title: "Spray Painting Services Hyde Park W2",
+      description:
+        "Smooth, consistent finishes for cabinetry, joinery and selected interior surfaces.",
+    },
+    {
+      title: "Luxury Apartment Decorating Hyde Park W2",
+      description:
+        "High-end decorating tailored to premium residential environments.",
+    },
+    {
+      title: "Hand-Painted Kitchen Finishes Hyde Park W2",
+      description:
+        "Detailed kitchen cabinet preparation and specialist brush-finished coatings.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Luxury apartment decorative interior",
+  faqItems: [
+    {
+      question: "Do you provide painting services for luxury apartments?",
+      answer:
+        "Yes. We regularly decorate luxury apartments, penthouses and high-value residential properties across Central London.",
+    },
+    {
+      question: "Can you restore damaged woodwork before painting?",
+      answer:
+        "Yes. We repair, prepare and finish timber surfaces before applying decorative coatings.",
+    },
+    {
+      question: "Do you protect furniture during decorating work?",
+      answer:
+        "Yes. Professional sheeting and protection systems are used throughout every project.",
+    },
+    {
+      question: "Can you help choose paint colours?",
+      answer:
+        "Yes. We provide practical guidance to help clients select suitable colours and finishes.",
+    },
+    {
+      question: "Do you offer wallpaper installation?",
+      answer:
+        "Yes. We install luxury wallcoverings, feature wallpapers and specialist decorative finishes.",
+    },
+    {
+      question: "Are premium paints worth the investment?",
+      answer:
+        "Yes. Quality paints often provide better durability, coverage and long-term appearance.",
+    },
+    {
+      question: "Can decorating improve property value?",
+      answer:
+        "Professional decorating can improve presentation, buyer perception and overall market appeal.",
+    },
+    {
+      question: "Do you provide free quotations?",
+      answer:
+        "Yes. We offer consultations and project assessments before providing detailed quotations.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our townhouse needed a complete refresh. The team worked carefully, communicated well and delivered a beautiful finish. The property now looks brighter, cleaner and far more consistent throughout.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed fast decorating between tenancies. Primrose Hill Painters completed everything on time and to a high standard. The property was ready for new tenants without delay.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "The walls showed every imperfection in natural light. The team prepared everything properly and achieved a smooth, flawless finish. We are extremely pleased with the result.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting & Decorating Project Today",
+  ctaDescription:
+    "If you are planning painting and decorating work in Hyde Park W2, we are ready to help. Whether you own a period townhouse, luxury apartment or investment property, our team delivers professional workmanship with minimal disruption. Contact us today to arrange a consultation, discuss your project requirements and receive expert guidance tailored to your property.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+
+
 ];
 
 export default siteData;
