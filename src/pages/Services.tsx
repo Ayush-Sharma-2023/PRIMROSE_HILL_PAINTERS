@@ -21,6 +21,12 @@ export default function Services() {
               key={s.href}
               to={s.href}
               className="service-card bg-white p-8 block border border-cream-200"
+        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+          {SERVICES.map((service) => (
+            <Link 
+              key={service.slug}
+              to={`/services/${service.slug}`}
+              className="block p-8 bg-white border service-card border-cream-200 group"
             >
               <h3 className="font-serif text-xl text-charcoal-800 mb-2">{s.label}</h3>
               <span className="inline-flex items-center gap-2 text-rust-700 text-sm font-medium tracking-wide group-hover:gap-3 transition-all">
