@@ -1,42 +1,36 @@
-import { Link } from 'react-router-dom';
-import { ArrowRight } from 'lucide-react';
-import { PageHero, PageSection, CtaSection } from '@/components/PageTemplate';
-import { NAV_LINKS } from '@/data/content';
-
-const services = NAV_LINKS.find((l) => l.label === 'Services')?.children ?? [];
+import { Link } from "react-router-dom";
+import siteData from "@/data/data";
 
 export default function Services() {
   return (
-    <>
-      <PageHero
-        label="Our Services"
-        title="Painting & Decorating Services"
-        subtitle="A full range of specialist finishes for residential properties across Primrose Hill and North London."
-        bgImage="https://images.pexels.com/photos/6764270/pexels-photo-6764270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-      />
-      <PageSection bg="cream">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {services.map((s) => (
+    <main className="min-h-screen px-6 py-16">
+      <div className="mx-auto max-w-6xl">
+        <h1 className="mb-10 text-4xl font-bold">
+          Our Services
+        </h1>
+
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {siteData.map((site) => (
             <Link
-              key={s.href}
-              to={s.href}
-              className="service-card bg-white p-8 block border border-cream-200"
-        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {SERVICES.map((service) => (
-            <Link 
-              key={service.slug}
-              to={`/services/${service.slug}`}
-              className="block p-8 bg-white border service-card border-cream-200 group"
+              key={site.slug}
+              to={`/services/${site.slug}`}
+              className="rounded-xl border p-6 transition hover:shadow-lg"
             >
-              <h3 className="font-serif text-xl text-charcoal-800 mb-2">{s.label}</h3>
-              <span className="inline-flex items-center gap-2 text-rust-700 text-sm font-medium tracking-wide group-hover:gap-3 transition-all">
-                Learn More <ArrowRight className="w-4 h-4" />
+              <h2 className="mb-3 text-2xl font-semibold">
+                {site.slug}
+              </h2>
+
+              <p className="text-gray-600">
+                {site.heroDescription}
+              </p>
+
+              <span className="mt-5 inline-block font-medium">
+                View Service →
               </span>
             </Link>
           ))}
         </div>
-      </PageSection>
-      <CtaSection />
-    </>
+      </div>
+    </main>
   );
 }
