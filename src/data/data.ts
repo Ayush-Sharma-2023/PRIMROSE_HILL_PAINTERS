@@ -1112,6 +1112,576 @@ const siteData = [
 },
 
 
+{
+  slug: "painters-decorators-maida-vale",
+
+  heroImageAlt: "Period apartment interior painting and decorating",
+  heroTitle:
+    "Maida Vale Painters & Decorators | Primrose Hill Painters",
+  heroDescription:
+    "Maintaining a property to a high standard requires more than simply applying paint. It requires experience, careful preparation and attention to detail. At Primrose Hill Painters, we provide professional painting and decorating services for homeowners, landlords, property managers and developers. Our team works across period homes, modern apartments and luxury residences, delivering durable finishes that enhance appearance, protect surfaces and support long-term property value.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters Is Trusted",
+  trustPoints: [
+    "Over 20 years of practical decorating experience across heritage properties, luxury residences, apartments and architect-designed homes.",
+    "Our team uses premium materials, proven preparation methods and manufacturer-approved systems designed for lasting performance and appearance.",
+    "We are fully insured and follow recognised industry standards while maintaining clean, organised and respectful working practices.",
+    "We regularly work alongside architects, interior designers, landlords and property managers who require dependable project delivery.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Protecting Property Value Through Skilled Decorating",
+  craftsmanshipParagraphs: [
+    "A quality decorating project begins long before the first coat is applied. We assess every surface carefully, identify underlying issues and recommend suitable products for each environment.",
+    "Many properties require specialist coatings, timber restoration, decorative finishes or breathable paint systems. We combine traditional craftsmanship with modern decorating techniques to achieve reliable results.",
+    "Our experience with listed buildings, conservation-sensitive homes and contemporary developments allows us to adapt our methods to each project while maintaining professional standards throughout.",
+  ],
+
+  propertiesTitle: "Property Expectations and Maintenance Standards",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Maida Vale residential interior",
+  propertiesParagraphs: [
+    "Maida Vale has mansion blocks, Victorian terraces, tree-lined streets and conservation-sensitive homes. This makes careful preparation and suitable paint systems important for achieving long-term finishes.",
+    "Many property owners need decorators who understand period interiors, apartment refurbishments and premium residential finishes. This is why searches for luxury painters, heritage decorators and apartment painting services are highly relevant here.",
+    "Westminster recorded around 204,200 residents in the 2021 Census, while the borough also has a strong rental market. Social renting increased from 25.9% to 28.3% between 2011 and 2021.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Restored period apartment interior",
+  caseStudyTitle: "Complete Interior Restoration for a Period Apartment",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Client: James Thornton",
+    "Property Type: Victorian Mansion Apartment",
+    "Project Type: Interior Painting & Decorative Restoration",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Mr Thornton had recently purchased a period apartment requiring significant cosmetic improvements. Previous decorating work had left visible brush marks, uneven colour transitions, cracked ceilings, damaged woodwork and staining around window reveals. The property also contained original decorative features that required careful restoration without compromising character.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Inspected ceilings, walls, woodwork and decorative mouldings to identify defects and restoration requirements.",
+    "Step 2: Stabilised old coatings and repaired cracks before filling, sanding and preparing surfaces for premium finishes.",
+    "Step 3: Restored original skirting boards, architraves and decorative mouldings and carefully prepared them for finishing.",
+    "Step 4: Applied high-quality primers and specialist finishing products throughout the apartment.",
+    "Step 5: Completed detailed quality checks in every room before project completion.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The apartment achieved a consistent, elegant finish while preserving original architectural details. The client successfully moved into a refreshed home that reflected the property's character and value.",
+
+  caseStudyQuote:
+    "We wanted the apartment to feel fresh without losing its original charm. The attention to detail was excellent from start to finish. The team spent significant time preparing surfaces properly and restoring decorative features that previous contractors had overlooked. Every room now feels brighter, cleaner and far more refined. The result exceeded our expectations and genuinely improved the overall feel of the property.",
+
+  servicesTitle: "Our Painting & Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated period residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting Services",
+      description:
+        "Complete wall, ceiling and woodwork decorating for apartments, houses and luxury residences.",
+    },
+    {
+      title: "Exterior Painting Services",
+      description:
+        "Protective coatings and decorative finishes for façades, masonry, timber and exterior features.",
+    },
+    {
+      title: "Period Property Painting Services",
+      description:
+        "Sensitive decorating solutions designed for heritage homes and traditional architectural details.",
+    },
+    {
+      title: "Apartment Painting Services",
+      description:
+        "Professional redecorating for flats, mansion blocks and contemporary residential developments.",
+    },
+    {
+      title: "Decorative Finishes Services",
+      description:
+        "Specialist finishes that enhance interior character and visual appeal.",
+    },
+    {
+      title: "Woodwork Restoration Painting Services",
+      description:
+        "Restoration and finishing of doors, skirting boards, mouldings and joinery.",
+    },
+    {
+      title: "Wallpaper Hanging Services",
+      description:
+        "Precise installation of premium wall coverings and decorative wallpapers.",
+    },
+    {
+      title: "Maintenance Painting Services",
+      description:
+        "Planned decorating programmes designed to preserve property appearance and value.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Period apartment decorative interior",
+  faqItems: [
+    {
+      question: "Is professional decorating worth the investment?",
+      answer:
+        "Professional decorating improves appearance, durability, property value and often reduces future maintenance costs.",
+    },
+    {
+      question: "What paint finishes are best for busy households?",
+      answer:
+        "Washable, durable finishes are generally recommended for hallways, kitchens, living areas and family homes.",
+    },
+    {
+      question: "Can decorating increase property value?",
+      answer:
+        "Well-executed decorating improves presentation and can positively influence buyer and tenant perceptions.",
+    },
+    {
+      question: "Do you work in occupied homes?",
+      answer:
+        "Yes. We regularly complete projects while homeowners remain in residence throughout the work.",
+    },
+    {
+      question: "How do you protect furniture and flooring?",
+      answer:
+        "Protective coverings, dust control methods and careful preparation help minimise disruption during projects.",
+    },
+    {
+      question: "Do you provide colour consultation?",
+      answer:
+        "Yes. We assist clients with colour selection suitable for property style, lighting and décor goals.",
+    },
+    {
+      question: "Can damaged plaster be repaired before painting?",
+      answer:
+        "Yes. Surface defects, cracks and minor plaster damage are repaired before decorating begins.",
+    },
+    {
+      question: "Are premium paints worth using?",
+      answer:
+        "Premium paints typically provide better coverage, durability, colour retention and long-term performance.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Previous decorating work left uneven finishes and visible repairs. The team prepared every surface properly and delivered a clean, consistent finish throughout the property. The quality of workmanship was excellent and the results exceeded our expectations.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed the property refreshed before sale. The decorating was completed on schedule, damaged areas were repaired professionally and the overall presentation improved significantly. The finished work helped create a much better first impression.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text: "Our home had stained ceilings, tired walls and worn woodwork. The team handled everything efficiently with minimal disruption. The rooms now feel brighter, cleaner and far more modern while maintaining the property's character.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting & Decorating Project Today",
+  ctaDescription:
+    "If you are planning a refurbishment, property refresh or complete decorating project, our team is ready to help. We provide clear advice, detailed preparation, premium materials and professional workmanship throughout every stage. Contact us today to discuss your requirements and arrange a consultation tailored to your property.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+{
+  slug: "painters-decorators-marylebone",
+
+  heroImageAlt: "Georgian townhouse interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters – Professional Painters & Decorators in Marylebone",
+  heroDescription:
+    "A quality decorating project protects your property, improves appearance and supports long-term value. At Primrose Hill Painters, we provide professional painting and decorating services throughout Marylebone for homeowners, landlords, property managers and developers. We work on period properties, luxury apartments, townhouses and contemporary homes. Our focus is simple: careful preparation, premium finishes and workmanship that lasts.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters Is Trusted",
+  trustPoints: [
+    "Over 20 years of decorating experience across luxury residences, listed buildings, period homes and modern developments.",
+    "Our team uses premium materials, proven preparation methods and manufacturer-recommended systems for durable and attractive finishes.",
+    "We are fully insured and regularly work alongside architects, designers, property managers and discerning homeowners.",
+    "Every project receives detailed planning, careful workmanship, clear communication and a commitment to professional standards throughout.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Where Traditional Craft Meets Modern Decorating Standards",
+  craftsmanshipParagraphs: [
+    "Successful decorating depends on preparation, product selection and attention to detail. We assess every surface carefully before recommending the most suitable approach.",
+    "Many Marylebone properties contain original architectural features that require specialist treatment. At the same time, modern developments demand durable and low-maintenance finishes.",
+    "Our experience across both property types allows us to deliver practical solutions without compromising appearance or longevity.",
+  ],
+
+  propertiesTitle: "Property Styles That Require Skilled Decorating",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Marylebone residential interior",
+  propertiesParagraphs: [
+    "Marylebone combines elegant Georgian townhouses, mansion blocks, luxury apartments, medical practices and commercial offices. This creates demand for painters and decorators who understand both heritage preservation and contemporary design requirements.",
+    "Many clients seek premium interior painting, apartment redecorating, woodwork restoration and specialist decorating services. The area continues to attract homeowners, investors and property managers who value high presentation standards.",
+    "Westminster recorded approximately 204,200 residents in the 2021 Census. The borough also contains one of London's highest concentrations of flats and apartments, creating sustained demand for property maintenance and decorating services.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Restored Georgian townhouse interior",
+  caseStudyTitle: "Full Interior Restoration for a Georgian Residence",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Client: Richard Bennett",
+    "Property Type: Georgian Townhouse",
+    "Project: Interior Painting & Decorative Restoration",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The property had not been redecorated for over a decade. Walls showed cracking and staining, decorative mouldings contained multiple layers of ageing paint and previous repairs were visible throughout several rooms. The client wanted a modern finish while preserving the building's original character.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Carried out a detailed inspection of walls, ceilings, woodwork and decorative features.",
+    "Step 2: Repaired damaged areas, filled cracks and stabilised and sanded existing surfaces.",
+    "Step 3: Carefully restored original mouldings, skirting boards and joinery.",
+    "Step 4: Applied premium primers and high-quality finishes throughout the property.",
+    "Step 5: Completed detailed quality checks in every room before handover.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The townhouse achieved a consistent, elegant appearance while retaining its original architectural features. The client completed a successful property valuation shortly after completion.",
+
+  caseStudyQuote:
+    "We wanted to modernise the house without losing its character. The team understood that balance immediately. Their preparation work was exceptional and every detail received attention. The original features now look better than they have for years. Communication remained clear throughout the project and the final result feels both elegant and authentic. We would confidently recommend their services.",
+
+  servicesTitle: "Our Painting & Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Georgian residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting Services",
+      description:
+        "Professional decorating for walls, ceilings, woodwork, apartments and private residences.",
+    },
+    {
+      title: "Marylebone Exterior Painting Services",
+      description:
+        "Protective coatings and decorative finishes for façades, masonry and external joinery.",
+    },
+    {
+      title: "Period Property Painting Services",
+      description:
+        "Specialist decorating for heritage homes and traditional architectural features.",
+    },
+    {
+      title: "Apartment Painting Services",
+      description:
+        "Premium decorating solutions for luxury flats and residential developments.",
+    },
+    {
+      title: "Woodwork Restoration Services",
+      description:
+        "Restoration and refinishing of doors, skirting boards, mouldings and decorative timber.",
+    },
+    {
+      title: "Wallpaper Hanging Services",
+      description:
+        "Precise installation of premium wallpapers and decorative wall coverings.",
+    },
+    {
+      title: "Decorative Finishes Services",
+      description:
+        "Specialist paint effects and bespoke decorative solutions.",
+    },
+    {
+      title: "Property Maintenance Decorating Services",
+      description:
+        "Planned decorating programmes designed to preserve appearance and value.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Georgian home decorative interior",
+  faqItems: [
+    {
+      question: "Is professional decorating worth the cost?",
+      answer:
+        "Professional decorating improves appearance, durability, property value and often reduces future maintenance requirements.",
+    },
+    {
+      question: "What paint finish is best for busy households?",
+      answer:
+        "Durable washable finishes are generally recommended for frequently used residential spaces.",
+    },
+    {
+      question: "Can decorating improve property value?",
+      answer:
+        "Good decorating improves presentation and can positively influence buyer and tenant perceptions.",
+    },
+    {
+      question: "Do you work in occupied properties?",
+      answer:
+        "Yes. We regularly complete projects while homeowners continue living in the property.",
+    },
+    {
+      question: "How do you protect furniture and flooring?",
+      answer:
+        "Protective coverings and careful preparation methods help minimise disruption throughout the project.",
+    },
+    {
+      question: "Do you offer colour advice?",
+      answer:
+        "Yes. We help clients select colours that complement property style and lighting conditions.",
+    },
+    {
+      question: "Can damaged plaster be repaired first?",
+      answer:
+        "Yes. Surface repairs are completed before painting begins to achieve better results.",
+    },
+    {
+      question: "Are premium paints worth using?",
+      answer:
+        "Premium paints provide better coverage, durability, colour retention and long-term performance.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Several rooms had uneven finishes from earlier work. The team prepared everything properly, kept us updated and delivered a clean, refined finish.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed the apartment refreshed before sale. Damaged areas were repaired, colours were modernised and the property looked far more presentable.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "Stained ceilings and worn woodwork needed proper attention. The team fixed the issues carefully and gave the property a lasting professional finish.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting & Decorating Project in Marylebone Today",
+  ctaDescription:
+    "If you are planning a refurbishment, property refresh, apartment decorating or complete decorating project, we can help. Our team provides honest advice, detailed preparation, premium materials and dependable workmanship. Contact us today to discuss your requirements and arrange a consultation tailored to your property and project goals.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+
+{
+  slug: "mayfair-painters-decorators",
+
+  heroImageAlt: "Luxury Mayfair apartment interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters – Painting & Decorating Services in Mayfair",
+  heroDescription:
+    "A well-finished property reflects quality, care and attention to detail. At Primrose Hill Painters, we provide professional painting and decorating services for homeowners, landlords, businesses, architects and property managers across Mayfair and the surrounding London areas. Our team combines traditional decorating skills with modern products to deliver durable finishes that improve appearance, protect surfaces and maintain property value.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Clients Trust Primrose Hill Painters",
+  trustPoints: [
+    "More than 20 years of decorating experience across luxury homes, apartments, period properties and commercial buildings.",
+    "Our team regularly works with homeowners, architects, designers, landlords and property managers throughout London.",
+    "We use premium paints, careful preparation methods and proven application techniques to achieve consistent, lasting results.",
+    "We are fully insured and committed to professional workmanship, clear communication and high standards on every project.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and premium decorating materials",
+  craftsmanshipTitle: "Quality Decorating That Respects Every Property",
+  craftsmanshipParagraphs: [
+    "Every successful decorating project starts with proper preparation. We carefully assess surfaces, identify defects and select suitable materials before work begins.",
+    "Our team works on both historic and contemporary properties. We protect original features where required while using modern products that improve durability and appearance.",
+    "This balanced approach helps us achieve clean, professional finishes that look good today and continue performing for years.",
+  ],
+
+  propertiesTitle: "Property Expectations Demand Specialist Attention",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Mayfair luxury interior",
+  propertiesParagraphs: [
+    "Mayfair contains some of London's most prestigious homes, apartments, offices, hotels and investment properties. Many buildings feature premium finishes, decorative details and high-value interiors that require skilled workmanship.",
+    "Property owners often need decorating solutions that enhance presentation while protecting long-term value. Experience, preparation and attention to detail play an important role in achieving the right result.",
+    "The City of Westminster has an estimated population exceeding 210,000 residents, while central London continues to attract strong residential and commercial investment. These factors contribute to ongoing demand for specialist decorating and maintenance services.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Luxury apartment interior after professional redecoration",
+  caseStudyTitle: "Recent Project Spotlight",
+
+  caseStudyClientDetailsTitle: "The Client",
+  caseStudyClientDetailsItems: [
+    "A homeowner purchased a luxury apartment requiring a complete interior refresh before moving in.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Previous decorating work left visible roller marks, uneven paint coverage, damaged woodwork and inconsistent colour matching. Natural daylight highlighted many of these defects throughout the property.",
+
+  caseStudySolutionTitle: "Our Approach",
+  caseStudySolutionSteps: [
+    "Step 1: Carried out a detailed room-by-room inspection.",
+    "Step 2: Repaired damaged surfaces and prepared all walls and woodwork.",
+    "Step 3: Applied premium low-VOC paints suitable for high-end interiors.",
+    "Step 4: Completed multiple finishing coats for a smooth and consistent appearance.",
+    "Step 5: Performed final quality checks under different lighting conditions.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The property achieved a clean, elegant finish throughout. The client completed their interior design plans on schedule and moved into a home that matched their expectations.",
+
+  caseStudyQuote:
+    "The finish was excellent from start to finish. The team paid attention to every detail, communicated clearly and treated the property with care. The difference after completion was immediately noticeable. We are delighted with the result and would happily recommend their services.",
+
+  servicesTitle: "Our Painting & Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated luxury residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting Services",
+      description:
+        "Professional wall, ceiling and woodwork painting for homes, apartments and investment properties.",
+    },
+    {
+      title: "Exterior Painting Services",
+      description:
+        "Protective coatings and decorative finishes designed for London's changing weather conditions.",
+    },
+    {
+      title: "Heritage Property Decorating",
+      description:
+        "Sensitive decorating solutions for period buildings and properties with original architectural features.",
+    },
+    {
+      title: "Wallpaper Installation Services",
+      description:
+        "Precision installation of designer wallpapers and luxury wall coverings.",
+    },
+    {
+      title: "Woodwork Restoration Services",
+      description:
+        "Restoration and refinishing of doors, skirting boards, mouldings and decorative timber features.",
+    },
+    {
+      title: "Spray Painting Services",
+      description:
+        "Smooth factory-style finishes for kitchens, wardrobes, cabinetry and bespoke joinery.",
+    },
+    {
+      title: "Commercial Decorating Services",
+      description:
+        "Decorating solutions for offices, retail units, hospitality venues and managed buildings.",
+    },
+    {
+      title: "Property Maintenance Services",
+      description:
+        "Planned decorating programmes designed to maintain presentation and protect property value.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Luxury property decorative interior",
+  faqItems: [
+    {
+      question: "Do you work in occupied homes?",
+      answer:
+        "Yes. We carefully protect furnishings and minimise disruption throughout the decorating process.",
+    },
+    {
+      question: "Can you decorate period properties?",
+      answer:
+        "Yes. We regularly work on homes with original features and heritage characteristics.",
+    },
+    {
+      question: "Do you provide colour advice?",
+      answer:
+        "Yes. We help clients choose colours and finishes that suit their property and lifestyle.",
+    },
+    {
+      question: "Are low-odour paints available?",
+      answer:
+        "Yes. We often use low-VOC products that improve indoor comfort during decorating works.",
+    },
+    {
+      question: "Can damaged plaster be repaired?",
+      answer:
+        "Yes. Surface repairs are completed before painting to improve the final finish.",
+    },
+    {
+      question: "Do you undertake commercial projects?",
+      answer:
+        "Yes. We provide decorating services for offices, retail premises, hospitality venues and managed properties.",
+    },
+    {
+      question: "How often should interiors be repainted?",
+      answer:
+        "Most interiors benefit from repainting every five to eight years depending on wear and usage.",
+    },
+    {
+      question: "Are you fully insured?",
+      answer:
+        "Yes. We carry appropriate insurance cover for residential and commercial decorating projects.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "We had several decorating issues that previous contractors failed to resolve. The finish now looks consistent throughout the property and the quality is outstanding.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "The team completed our project within the agreed timeframe and kept disruption to a minimum. Everything was left clean and professionally finished.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "Our property required careful work around original features. The decorating was completed with great attention to detail and the results exceeded expectations.",
+    },
+  ],
+
+  ctaTitle: "Start Your Decorating Project Today",
+  ctaDescription:
+    "Whether you are renovating a home, preparing a property for sale, upgrading an apartment or maintaining a commercial building, we can help. Our experienced team delivers reliable painting and decorating services with careful preparation, quality materials and professional project management. Contact us today to discuss your requirements.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+
+
+
 
 
 
