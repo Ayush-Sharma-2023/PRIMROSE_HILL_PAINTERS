@@ -3538,6 +3538,197 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
+{
+  slug: "temple-fortune-painters",
+
+  heroImageAlt: "Temple Fortune family home interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters – Temple Fortune Residential Painters",
+  heroDescription:
+    "A good decorating job should make a home feel cleaner, calmer and better protected. In Temple Fortune, many homes need more than a quick repaint. Older plaster, timber details, fitted joinery and modern extensions all need careful preparation. At Primrose Hill Painters, we provide residential painting, decorating, wallpapering, joinery finishing and restoration-led work with a tidy, professional approach.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Homeowners Trust Primrose Hill Painters",
+  trustPoints: [
+    "Over 20 years of hands-on decorating experience across period homes, modern apartments and high-value London properties.",
+    "We plan each job around surface condition, preparation, material choice, ventilation and long-term durability.",
+    "We protect floors, furniture, joinery, fittings and occupied rooms with clean, low-dust working methods.",
+    "We work carefully with homeowners, designers, landlords and property managers who expect a calm, reliable service.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "A Better Finish Starts Before the Paint",
+  craftsmanshipParagraphs: [
+    "Our work starts with the surface, not the paint tin. Older homes may need breathable materials, repaired plaster and careful sanding before decoration begins.",
+    "Modern interiors need sharp lines, smooth walls and neat joinery finishes. We use traditional decorating knowledge with current paint systems, insured working practices and proper site protection, so every room is finished with care.",
+  ],
+
+  propertiesTitle: "Homes Here Need a More Considered Approach",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Temple Fortune residential interior",
+  propertiesParagraphs: [
+    "Temple Fortune has a mix of family houses, period homes, flats, renovated spaces and properties close to conservation-sensitive areas. Many homes include older timber, cornices, fitted cabinets, repaired plaster and new extensions.",
+    "This makes preparation important. The wrong finish can show marks quickly, especially in hallways, kitchens, staircases and rooms with strong natural light.",
+    "Barnet remains a high-value housing area, while Barnet Council also notes that several conservation areas have Article 4 directions where some property changes may need planning consent.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Temple Fortune family home interior after redecoration",
+  caseStudyTitle: "Interior Repaint and Joinery Refresh Near Finchley Road",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Client: Rachel Stein",
+    "Property Type: Four-bedroom family home near Finchley Road",
+    "Service: Interior repainting, hallway refresh, timber joinery preparation and hand-painted cabinetry",
+    "Project Length: 9 working days",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Rachel contacted Primrose Hill Painters after a previous repaint had left visible roller marks, uneven cutting-in and rough paint build-up around skirting boards. The hallway felt dark, the kitchen joinery looked tired and several walls showed small cracks where older plaster met newer repairs. The home was occupied throughout the project, requiring careful management of dust, furniture movement, drying time and daily access. The client also wanted the finish to feel warm and practical, not overly glossy or clinical.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Completed a room-by-room inspection of wall condition, old paint layers, timber edges, previous filler work and areas affected by poor preparation.",
+    "Step 2: Protected floors, furniture, doors and staircase areas, then worked in controlled zones to keep the home usable.",
+    "Step 3: Filled hairline cracks, sanded rough patches, stabilised weak areas and smoothed old paint ridges around trim.",
+    "Step 4: Selected primers and durable finishes suitable for family use, older plaster and frequently touched joinery.",
+    "Step 5: Prepared cabinet doors, frames, skirting and stair trim separately for a smoother, longer-lasting finish.",
+    "Step 6: Inspected the finish in daylight and warm evening light before completing final corrections and handover.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The hallway became brighter and calmer without losing the home’s original warmth. The kitchen joinery looked cleaner and more refined, while the walls had a smoother, more consistent finish. Rachel said the house felt properly refreshed, not just repainted. The project finished on schedule, with the family remaining in the property throughout.",
+
+  caseStudyQuote:
+    "We had lived with uneven paintwork for too long and wanted the house to feel properly finished. The team explained each stage clearly, protected our home and worked neatly every day. The hallway now feels brighter and the kitchen joinery looks much cleaner. It felt like a careful refresh, not just another repaint.",
+
+  servicesTitle: "Our Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Temple Fortune residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "We prepare and paint walls, ceilings, trims, hallways, bedrooms, lounges and family spaces with clean, durable finishes.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "We decorate exterior timber, masonry, doors, windows and visible features with preparation suited to London weather.",
+    },
+    {
+      title: "Hand-Painted Kitchens",
+      description:
+        "We refresh kitchen cabinets, wardrobes, shelving, doors and fitted joinery with careful sanding and smooth finishing.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "We hang wallpapers and wallcoverings with neat alignment, clean edges and properly prepared surfaces.",
+    },
+    {
+      title: "Woodwork Restoration",
+      description:
+        "We repair, prepare and decorate skirting, cornices, doors, stair trim, mouldings and older timber features.",
+    },
+    {
+      title: "Decorative Finishes",
+      description:
+        "We create subtle feature walls, specialist finishes and refined decorative effects for character-led interiors.",
+    },
+    {
+      title: "Spray Painting",
+      description:
+        "We use spray finishing where suitable for cabinets, doors, fitted furniture and smooth modern surfaces.",
+    },
+    {
+      title: "Worksite Protection",
+      description:
+        "We protect occupied homes with dust control, floor covering, furniture protection and tidy daily working habits.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Temple Fortune period home decorative interior",
+  faqItems: [
+    {
+      question: "Do you provide residential painting in Temple Fortune?",
+      answer:
+        "Yes. We provide interior, exterior, joinery, wallpapering and specialist decorating for residential homes in Temple Fortune.",
+    },
+    {
+      question: "How long does an interior repaint take?",
+      answer:
+        "Most interior repainting takes several days to weeks, depending on room count, preparation and drying time.",
+    },
+    {
+      question: "Do you paint kitchen cabinets?",
+      answer:
+        "Yes. We prepare and paint kitchen cabinets, wardrobes, shelving, doors and fitted joinery using suitable finishes.",
+    },
+    {
+      question: "Can you help with colour selection?",
+      answer:
+        "Yes. We advise on colours based on light, room use, existing finishes and the home’s character.",
+    },
+    {
+      question: "Do you protect furniture and flooring?",
+      answer:
+        "Yes. We protect floors, furniture, fittings, joinery and access routes before preparation or painting starts.",
+    },
+    {
+      question: "Do older homes need special preparation?",
+      answer:
+        "Yes. Older homes often need careful sanding, filling, priming and breathable materials before painting.",
+    },
+    {
+      question: "Do you hang wallpaper?",
+      answer:
+        "Yes. We install wallpapers and wallcoverings after preparing surfaces for alignment, adhesion and clean edges.",
+    },
+    {
+      question: "How do I book Primrose Hill Painters?",
+      answer:
+        "Contact Primrose Hill Painters with your location, room details, photos if available and preferred finish.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our landing and staircase looked patchy after building work. The team prepared everything properly before painting, which made a big difference. The final finish looks smooth in daylight and the house stays tidy while the work is being done.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed the living room and fitted shelves refreshed before new furniture arrived. The colour advice was practical and the finish around the shelves was very neat. The work felt organised from start to finish.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "Our rental property needed smart decorating between tenants. The team repaired cracks, refreshed the woodwork and used a finish that looked clean and durable. The property felt much better presented for viewings.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting Project Today",
+  ctaDescription:
+    "If your home needs careful decorating, cleaner finishes or restoration-led preparation, we are ready to help. Primrose Hill Painters works with homeowners, landlords, designers and property managers across North London.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
 
 ];
 
