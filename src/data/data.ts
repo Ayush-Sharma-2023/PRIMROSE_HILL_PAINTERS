@@ -1678,14 +1678,1865 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
+ 
+{
+  slug: "muswell-hill-painters-decorators",
+
+  heroImageAlt: "Edwardian family home interior painting and decorating",
+  heroTitle:
+    "Muswell Hill Painters & Decorators | Primrose Hill Painters",
+  heroDescription:
+    "Maintaining and improving a property requires skilled decorating that protects surfaces and enhances appearance. At Primrose Hill Painters, we provide professional painting and decorating services for homeowners, landlords, property managers and businesses across Muswell Hill. Our team combines over 20 years of practical experience with careful preparation, quality materials and proven decorating methods. Whether you own a period property, family home, apartment or commercial premises, we deliver reliable workmanship designed for long-lasting results.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters is Trusted",
+  trustPoints: [
+    "Over 20 years of hands-on decorating experience across London's period homes, apartments, listed buildings and premium residential properties.",
+    "Fully insured professionals delivering careful preparation, clean working practices and consistent project management from start to finish.",
+    "Trusted by homeowners, architects, interior designers, landlords and property managers seeking dependable decorating standards and attention to detail.",
+    "Extensive knowledge of heritage materials, breathable paint systems, timber restoration techniques and modern decorating products.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Combining Traditional Decorating Skills with Modern Standards",
+  craftsmanshipParagraphs: [
+    "Exceptional decorating begins with understanding the building itself. We carefully assess surfaces, identify underlying issues and recommend suitable preparation before painting starts.",
+    "Many Muswell Hill properties feature original timberwork, decorative mouldings and older plaster systems. These require specialist treatment to prevent future deterioration.",
+    "Alongside traditional craftsmanship, we use modern coatings that improve durability, washability and colour retention. This balanced approach helps preserve character while meeting today's performance expectations.",
+  ],
+
+  propertiesTitle: "Property Types That Demand Specialist Decorating Expertise",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Muswell Hill residential interior",
+  propertiesParagraphs: [
+    "Muswell Hill is known for its Edwardian homes, attractive residential streets, converted flats and family properties. Many buildings contain original architectural features that require careful restoration and decorating expertise.",
+    "Property owners often search for painters and decorators in Muswell Hill, interior painting services, exterior house painting specialists, timber restoration experts and period property decorators.",
+    "According to the 2021 Census, the London Borough of Haringey recorded approximately 254,900 residents. Council data also shows a significant proportion of housing stock consists of Victorian and Edwardian properties that require ongoing maintenance and restoration.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Edwardian family home interior after redecoration",
+  caseStudyTitle: "A Recent Decorating Project",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Client: Charlotte Bennett",
+    "Property Type: Edwardian Family Home",
+    "Location: Muswell Hill",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Charlotte had recently purchased an Edwardian property that had not been redecorated for several years. Several walls showed cracking around ceilings. Previous paint layers were uneven, woodwork had yellowed and moisture staining appeared near external window frames. The client wanted a fresh appearance while protecting original features throughout the home.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Conducted a full property inspection and identified areas requiring repair.",
+    "Step 2: Stabilised minor plaster defects and repaired damaged surfaces.",
+    "Step 3: Prepared all walls, ceilings, skirting boards and timber features.",
+    "Step 4: Applied specialist primers to affected areas.",
+    "Step 5: Completed interior decorating using durable premium coatings.",
+    "Step 6: Finished detailed woodwork restoration and final quality inspection.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The property achieved a clean, consistent finish throughout all principal rooms. Original decorative features were preserved while overall presentation improved significantly. The homeowner was able to move in immediately following completion.",
+
+  caseStudyQuote:
+    "We were worried that some of the original features would be damaged during the decorating process. The team explained everything clearly and approached the project with great care. Every room feels brighter, cleaner and more welcoming. The preparation work made a huge difference to the final finish. We appreciated the professionalism, communication and respect shown for our home throughout the project.",
+
+  servicesTitle: "Our Painting & Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Edwardian residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting Services in Muswell Hill",
+      description:
+        "Professional wall, ceiling, woodwork and room decorating for residential and commercial properties.",
+    },
+    {
+      title: "Exterior House Painting in Muswell Hill",
+      description:
+        "Protective exterior coatings designed for London's changing weather conditions.",
+    },
+    {
+      title: "Period Property Decorating in Muswell Hill",
+      description:
+        "Specialist decorating for Edwardian, Victorian and heritage-style homes.",
+    },
+    {
+      title: "Timber Restoration Services in Muswell Hill",
+      description:
+        "Repair and restoration of original woodwork, mouldings and decorative features.",
+    },
+    {
+      title: "Wallpaper Hanging Services in Muswell Hill",
+      description:
+        "Precise installation of feature walls and premium wall coverings.",
+    },
+    {
+      title: "Residential Decorating Services in Muswell Hill",
+      description:
+        "Complete home decorating projects managed from preparation through completion.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Edwardian home decorative interior",
+  faqItems: [
+    {
+      question: "Do you decorate occupied homes?",
+      answer:
+        "Yes. We work carefully in occupied properties while minimising disruption and protecting furnishings.",
+    },
+    {
+      question: "Do you provide exterior painting services?",
+      answer:
+        "Yes. We offer complete exterior decorating and protective coating solutions.",
+    },
+    {
+      question: "Can you restore original timber features?",
+      answer:
+        "Yes. We regularly restore mouldings, skirting boards, doors and decorative timberwork.",
+    },
+    {
+      question: "Do you use low-odour paints?",
+      answer:
+        "Yes. We can recommend low-VOC products suitable for occupied family homes.",
+    },
+    {
+      question: "How long does a typical decorating project take?",
+      answer:
+        "Project duration depends on size, preparation requirements and the scope of work.",
+    },
+    {
+      question: "Do you offer colour consultations?",
+      answer:
+        "Yes. We help clients select colours suited to property style and lighting conditions.",
+    },
+    {
+      question: "Are your decorators fully insured?",
+      answer:
+        "Yes. We carry full insurance coverage for residential and commercial decorating projects.",
+    },
+    {
+      question: "Do you provide free quotations?",
+      answer:
+        "Yes. We offer detailed, no-obligation quotations following a property assessment.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our hallway and staircase now look clean, bright and professionally finished. The team worked carefully, protected the home and kept everything tidy.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "Original timber features were restored instead of replaced. The finish now suits the character of the property and looks much better.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "We needed quick decorating before new tenants arrived. The work was completed on time and the property looked fresh and ready.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting & Decorating Project Today",
+  ctaDescription:
+    "If you are planning decorating work in Muswell Hill, our experienced team is ready to help. We provide practical advice, transparent quotations and professional workmanship tailored to your property. Whether you need a single room refreshed or a full property renovation, we deliver decorating solutions designed to last.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
 
 
+{
+  slug: "fulham-painters",
+
+  heroImageAlt: "Fulham period home interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters – Specialist Painting and Decorating in Fulham",
+  heroDescription:
+    "Primrose Hill Painters provides careful painting and decorating in Fulham for homeowners who value clean preparation, suitable materials and calm project management. We work on period homes, modern apartments, townhouses and refined interiors where finish quality matters. Our team understands London homes, heritage surfaces and occupied properties, so every project is planned with protection, timing and long-term durability in mind.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters is Trusted in Fulham",
+  trustPoints: [
+    "Over 20 years of practical decorating experience across period, listed and modern London residential properties.",
+    "We protect floors, furniture, artwork and fittings before work starts, keeping occupied homes clean and manageable.",
+    "We use suitable paint systems for old plaster, timber, cornices, joinery and high-use family interiors.",
+    "We work discreetly with homeowners, designers, architects and property managers where timing and finish standards matter.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Careful Decorating for Heritage Homes and Modern Interiors",
+  craftsmanshipParagraphs: [
+    "Good decorating is not just colour on a wall. It depends on preparation, surface condition, ventilation, primers and the right finish for each room.",
+    "In Fulham, many homes combine old plaster, timber details and modern extensions. These different surfaces require careful assessment and suitable preparation.",
+    "We balance traditional methods with current paint technology, giving walls, woodwork and joinery a finish that looks clean and lasts properly.",
+  ],
+
+  propertiesTitle: "Fulham Homes Need a More Considered Painting Approach",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Fulham residential interior",
+  propertiesParagraphs: [
+    "Fulham has a mix of Victorian terraces, mansion flats, converted houses and newer riverside apartments. That variety changes how painting work should be planned.",
+    "Older homes may need breathable systems, careful sanding and repairs to existing woodwork. Modern interiors often need sharper lines, durable finishes and low-disruption scheduling.",
+    "The wider Hammersmith and Fulham borough has a significant conservation footprint, with 44 conservation areas recorded by the council. Older properties therefore require careful consideration of appearance, materials and existing architectural character.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Restored Fulham period home interior",
+  caseStudyTitle: "Interior Repaint and Joinery Finish in a Fulham Period Home",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A homeowner in Fulham asked us to refresh the entrance hall, stairs, main living room and fitted joinery before a family event.",
+    "The home had older plaster, detailed cornices and existing painted timber that had chipped near handles and high-traffic edges.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The main issue was not just tired paint. The hallway had scuff marks, uneven patch repairs and previous roller lines visible in daylight. The joinery had glossy layers that needed proper keying before repainting. The client also needed the home kept usable during the work.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Protected floors, stair treads, furniture and surrounding surfaces before any sanding started.",
+    "Step 2: Checked plaster movement, filled minor cracks and sanded uneven repair marks.",
+    "Step 3: Prepared timber properly, including degreasing, light abrasion and suitable primer application.",
+    "Step 4: Applied durable wall finishes in busy areas and a smoother finish for the main living space.",
+    "Step 5: Completed the joinery with careful coats, allowing drying time between stages.",
+    "Step 6: Carried out a final walk-through, touching up edges and checking finish consistency in natural light.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The hallway looked brighter, the living room felt more balanced and the joinery had a cleaner, more consistent finish. The client said the work felt organised, tidy and far less disruptive than expected.",
+
+  caseStudyQuote:
+    "We were worried the decorating would take over the house, but the team kept everything controlled. The preparation made the biggest difference. Old marks disappeared properly, the joinery looked much sharper and the house was still liveable during the work. Communication was clear each day, which made the whole job easier.",
+
+  servicesTitle: "Our Painting and Decorating Services in Fulham",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Fulham residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "Clean wall, ceiling and woodwork painting for homes needing a sharper, fresher and longer-lasting finish.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "Careful exterior preparation and paint systems for masonry, timber, doors, windows and architectural details.",
+    },
+    {
+      title: "Period Property Decorating",
+      description:
+        "Practical decorating for older homes, including breathable finishes, plaster care and sensitive surface preparation.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "Neat wallpaper and wallcovering installation with proper wall preparation, alignment and edge control.",
+    },
+    {
+      title: "Joinery Painting",
+      description:
+        "Hand-painted and spray-applied finishes for wardrobes, cupboards, kitchens, shelving and fitted furniture.",
+    },
+    {
+      title: "Cornice and Woodwork Restoration",
+      description:
+        "Detailed repair and finishing for skirting, mouldings, cornices, doors, frames and traditional timber features.",
+    },
+    {
+      title: "Decorative Finishes",
+      description:
+        "Specialist finishes for feature walls, refined interiors, statement rooms and design-led residential projects.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Period home decorative interior",
+  faqItems: [
+    {
+      question: "Are Primrose Hill Painters suitable for Fulham homes?",
+      answer:
+        "Yes. We work on period houses, modern flats, townhouses and refined London interiors with careful preparation.",
+    },
+    {
+      question: "Do you provide exterior painting in Fulham?",
+      answer:
+        "Yes. We paint exterior masonry, timber, doors, windows and details using suitable weather-resistant systems.",
+    },
+    {
+      question: "Can you help with conservation-area homes?",
+      answer:
+        "Yes. We use careful methods and suitable finishes for older homes where appearance and materials matter.",
+    },
+    {
+      question: "How long does an interior repaint take?",
+      answer:
+        "Most rooms take one to three days, depending on preparation, drying time and finish requirements.",
+    },
+    {
+      question: "Do you protect furniture and flooring?",
+      answer:
+        "Yes. We protect floors, furniture, fittings and artwork before preparation or painting begins.",
+    },
+    {
+      question: "Can you repair cracks before painting?",
+      answer:
+        "Yes. We fill minor cracks, sand uneven areas and prepare surfaces before applying paint.",
+    },
+    {
+      question: "Do you offer wallpaper hanging?",
+      answer:
+        "Yes. We hang wallpaper and specialist wallcoverings with careful wall preparation and alignment.",
+    },
+    {
+      question: "How do I start a project?",
+      answer:
+        "Send project details, photos if available and your preferred timing. We will advise the next practical step.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our walls looked uneven after years of small touch-ups. The team prepared everything properly, protected the flooring and left a clean, smooth finish.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "Our fitted wardrobes had chips and old brush marks. Primrose Hill Painters gave them a sharper, cleaner finish with tidy, careful work.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "We needed decorators who could work around family life. The team worked in stages, kept disruption low and delivered a fresh, practical result.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting and Decorating Project in Fulham Today",
+  ctaDescription:
+    "If your Fulham home needs careful painting, joinery finishing, wallpapering or exterior decorating, we are ready to help. Primrose Hill Painters provides clear advice, tidy working methods and finishes planned around your property. Contact us to discuss the rooms, surfaces and timescale and we will guide you with practical next steps.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
 
 
+{
+  slug: "west-hampstead-painters",
+
+  heroImageAlt: "West Hampstead family home interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters – Painting and Decorating in West Hampstead",
+  heroDescription:
+    "Primrose Hill Painters provides careful painting and decorating in West Hampstead for homes that need a clean, durable and well-managed finish. We work across period houses, mansion flats, modern apartments and family homes where preparation matters. Our approach is simple: protect the property, choose the right materials, prepare surfaces properly and finish every room with care.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters is Trusted in West Hampstead",
+  trustPoints: [
+    "Over 20 years of hands-on decorating experience across period, listed and modern London homes.",
+    "We protect floors, furniture, fittings and artwork before sanding, filling, priming or painting begins.",
+    "We use suitable finishes for older plaster, timber joinery, cornices, staircases and high-use family interiors.",
+    "We work with homeowners, designers and property managers where timing, cleanliness and finish quality matter.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Careful Painting for Period Detail and Modern Living",
+  craftsmanshipParagraphs: [
+    "A good finish starts before paint touches the wall. In West Hampstead, many homes combine older plaster, decorative timber, fitted joinery and newer extensions.",
+    "We inspect surfaces, choose suitable primers and plan the work around the way each home is used.",
+    "Our team combines traditional preparation with modern paint systems. This helps create a finish that looks calm, clean and durable without ignoring the character of the property.",
+  ],
+
+  propertiesTitle: "West Hampstead Homes Need a More Detailed Decorating Plan",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant West Hampstead residential interior",
+  propertiesParagraphs: [
+    "West Hampstead has Victorian terraces, mansion blocks, converted flats and contemporary apartments close together. This mix creates different decorating needs on the same street.",
+    "Older homes may need breathable finishes and careful repairs. Modern flats often need sharper lines, smoother surfaces and low-disruption scheduling.",
+    "Conservation guidance around West Hampstead and South Hampstead highlights the importance of careful surface preparation, material choice and exterior finish decisions in older homes.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "West Hampstead family home interior after redecoration",
+  caseStudyTitle: "Interior Repaint and Joinery Finish in West Hampstead",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A private homeowner in West Hampstead contacted us before moving back into a recently updated family home.",
+    "The property had older plaster, fitted storage, painted timber and high-use hallway walls.",
+    "The client wanted the home to feel cleaner and brighter with a natural rather than overly polished finish.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The main issue was uneven preparation from earlier work. Some walls had patchy filler marks and the hallway showed scuffs and roller shadows. The fitted joinery also had chips near handles and dull paint around the edges. Furniture had already arrived, so the work had to be staged carefully.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Protected floors, stairs, furniture and fitted units before preparation started.",
+    "Step 2: Checked walls in natural light to find visible patches, dents and uneven sanding.",
+    "Step 3: Filled minor cracks, sanded rough areas and stabilised weaker surfaces.",
+    "Step 4: Prepared timber and joinery with cleaning, light sanding and suitable primer.",
+    "Step 5: Applied durable wall paint in busy areas and smoother finishes in calmer rooms.",
+    "Step 6: Finished the joinery with controlled coats for a cleaner and more even result.",
+    "Step 7: Checked the finish in daylight and corrected small edge marks before handover.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The home felt brighter, cleaner and more consistent. The hallway looked sharper, the living areas felt calmer and the fitted joinery blended better with the rooms. The client said the work felt tidy, organised and easy to manage around daily life.",
+
+  caseStudyQuote:
+    "We had lived with uneven walls and chipped joinery for too long. The team explained the preparation clearly and worked through the house in a calm organised way. The finish now looks smooth without feeling flat or overdone. What stood out most was the care taken around our furniture, stairs and fitted storage.",
+
+  servicesTitle: "Our Services in West Hampstead",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated West Hampstead residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "Clean wall, ceiling and woodwork painting for bedrooms, halls, living rooms and full-home refreshes.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "Careful preparation and painting for doors, windows, masonry, timber details and exterior surfaces.",
+    },
+    {
+      title: "Period Property Decorating",
+      description:
+        "Sensitive decorating for older homes using suitable preparation, breathable finishes and careful repair methods.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "Precise wallpaper and wallcovering installation with proper wall preparation, alignment and edge control.",
+    },
+    {
+      title: "Joinery Painting",
+      description:
+        "Hand-painted and spray-applied finishes for wardrobes, cupboards, shelving, kitchens and fitted furniture.",
+    },
+    {
+      title: "Cornice and Woodwork Restoration",
+      description:
+        "Repair, preparation and finishing for mouldings, doors, frames, skirting and decorative timber details.",
+    },
+    {
+      title: "Decorative Finishes",
+      description:
+        "Specialist finishes for feature walls, refined interiors, statement rooms and design-led home upgrades.",
+    },
+    {
+      title: "Worksite Protection",
+      description:
+        "Floor, furniture, fitting and surface protection before preparation, sanding, priming or painting begins.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Period home decorative interior",
+  faqItems: [
+    {
+      question: "Are Primrose Hill Painters suitable for West Hampstead homes?",
+      answer:
+        "Yes. We decorate period houses, mansion flats, family homes and modern apartments across North West London.",
+    },
+    {
+      question: "Do you offer exterior painting in West Hampstead?",
+      answer:
+        "Yes. We paint exterior masonry, timber windows, doors and architectural details using suitable preparation methods.",
+    },
+    {
+      question: "Can you help with conservation-area homes?",
+      answer:
+        "Yes. We use careful methods and suitable finishes where older materials and local character matter.",
+    },
+    {
+      question: "How long does an interior repaint take?",
+      answer:
+        "Most rooms take one to three days, depending on preparation, drying time and finish choice.",
+    },
+    {
+      question: "Do you protect floors and furniture?",
+      answer:
+        "Yes. We protect flooring, furniture, fittings and surrounding surfaces before preparation or painting begins.",
+    },
+    {
+      question: "Can you repair cracks before decorating?",
+      answer:
+        "Yes. We fill minor cracks, sand uneven areas and stabilise surfaces before applying paint.",
+    },
+    {
+      question: "Do you install wallpaper?",
+      answer:
+        "Yes. We hang wallpaper and specialist wallcoverings with careful preparation, alignment and trimming.",
+    },
+    {
+      question: "How do I request a quote?",
+      answer:
+        "Send project details, photos if possible and your preferred timing. We will advise the next practical step.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our hallway had old scuffs and tired paint near the stairs. Primrose Hill Painters prepared the walls properly and gave the space a cleaner finish.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed our fitted wardrobes repainted because the doors had chips and brush marks. The result now looks sharper, cleaner and more settled.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "Our flat needed decorating before new tenants moved in. The team worked to schedule, protected the flooring and left every room fresh.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting and Decorating Project in West Hampstead Today",
+  ctaDescription:
+    "If your West Hampstead home needs careful painting, joinery finishing, wallpapering or exterior decorating, we can help. Primrose Hill Painters offers practical advice, tidy working methods and finishes planned around the property. Contact us with your rooms, surfaces and timing and we will guide you through the next step clearly.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
 
 
+{
+  slug: "primrose-hill-painters-westminster-sw1",
+
+  heroImageAlt: "Westminster apartment interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters & Decorators in Westminster SW1",
+  heroDescription:
+    "Westminster properties demand careful workmanship, reliable project management and lasting finishes. At Primrose Hill Painters, we provide professional painting and decorating services across Westminster SW1 for homeowners, landlords, businesses and property managers. From elegant period homes to modern apartments and commercial premises, we deliver precise workmanship, premium materials and a clean organised approach that protects both the appearance and value of your property.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Property Owners in Westminster Choose Primrose Hill Painters",
+  trustPoints: [
+    "Over 20 years of practical decorating experience across London's residential, commercial and heritage property sectors.",
+    "Fully insured professionals committed to safe working practices, clear communication and consistent project delivery.",
+    "Extensive experience working within conservation areas, listed properties and architect-led refurbishment projects.",
+    "Trusted by homeowners, landlords, interior designers, property managers and businesses throughout Westminster and Central London.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and professional decorating materials",
+  craftsmanshipTitle: "Heritage Care, Modern Finishes and Long-Term Value",
+  craftsmanshipParagraphs: [
+    "Every decorating project requires more than fresh paint. We focus on preparation, moisture management, substrate condition and finish durability.",
+    "Our team uses carefully selected products suited to each surface and environment. Whether restoring original architectural details or delivering contemporary finishes, we combine traditional craftsmanship with modern application methods.",
+    "Our experience across period and modern buildings helps ensure durable results that remain attractive for years while respecting the property's character and structural integrity.",
+  ],
+
+  propertiesTitle: "Painting Solutions Designed for Westminster Properties",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Westminster residential interior",
+  propertiesParagraphs: [
+    "Westminster contains some of London's most varied property types. Georgian terraces, luxury apartments, government buildings, offices, hotels and retail spaces all require different decorating approaches.",
+    "We regularly work across Westminster SW1, Victoria, Pimlico, St James's and surrounding Central London locations where appearance, durability and minimal disruption are essential requirements for successful projects.",
+    "Continued investment in maintaining and improving London's existing housing stock contributes to ongoing demand for professional painting, decorating and refurbishment services across Westminster.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Restored Westminster apartment interior",
+  caseStudyTitle: "Westminster Apartment Restoration Case Study",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A property owner in Westminster SW1 contacted us regarding a three-bedroom apartment undergoing refurbishment before returning to the rental market.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Several issues affected the property's presentation, including cracking along ceiling junctions, uneven wall surfaces, previous paint failure near the window reveals, staining from historic moisture ingress and a tight completion deadline before tenant occupation.",
+
+  caseStudySolutionTitle: "Our Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Inspected all surfaces and identified areas requiring repair and stabilisation.",
+    "Step 2: Removed loose coatings and repaired, filled and sanded affected walls.",
+    "Step 3: Applied specialist stain-blocking treatments to affected areas before decoration.",
+    "Step 4: Applied multiple coats of durable, low-odour products suitable for occupied buildings.",
+    "Step 5: Checked every room under natural and artificial lighting before handover.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The apartment achieved a clean, modern appearance ready for marketing photography and tenant viewings. The landlord secured new tenants shortly after completion and avoided further delays.",
+
+  caseStudyQuote:
+    "The property had several decorating issues that previous contractors overlooked. Primrose Hill Painters approached the project methodically and kept us informed throughout. The finish quality was excellent, especially around repaired areas that are now completely invisible. The team worked professionally, kept the site tidy and completed everything before our deadline. The apartment looked outstanding when photographed and helped us secure tenants quickly.",
+
+  servicesTitle: "Our Westminster SW1 Painting & Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Westminster residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "Professional wall, ceiling, woodwork and feature room decorating.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "Durable weather-resistant coatings for homes and commercial buildings.",
+    },
+    {
+      title: "Residential Painters",
+      description:
+        "Complete decorating solutions for houses, flats and luxury apartments.",
+    },
+    {
+      title: "Commercial Painting",
+      description:
+        "Professional decorating for offices, retail premises, hospitality venues and managed properties.",
+    },
+    {
+      title: "Period Property Decorating",
+      description:
+        "Sensitive restoration work for heritage and conservation-area buildings.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "Precise installation of premium and specialist wallcoverings.",
+    },
+    {
+      title: "Woodwork Painting",
+      description:
+        "Professional finishing for doors, skirting boards, staircases, cabinetry and bespoke joinery.",
+    },
+    {
+      title: "Spray Painting",
+      description:
+        "Smooth modern finishes for selected residential and commercial projects.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Westminster period property decorative interior",
+  faqItems: [
+    {
+      question: "Do you work on listed buildings in Westminster?",
+      answer:
+        "Yes. We regularly decorate listed and heritage properties using appropriate materials and methods.",
+    },
+    {
+      question: "Can you provide evening or weekend work?",
+      answer:
+        "Yes. Flexible scheduling is available where project requirements allow.",
+    },
+    {
+      question: "Do you offer interior and exterior painting?",
+      answer:
+        "Yes. We provide comprehensive interior and exterior decorating services.",
+    },
+    {
+      question: "Are your painters fully insured?",
+      answer:
+        "Yes. Our team carries appropriate insurance coverage for residential and commercial projects.",
+    },
+    {
+      question: "Do you help landlords prepare rental properties?",
+      answer:
+        "Yes. We regularly complete refurbishment and redecoration projects before tenant occupancy.",
+    },
+    {
+      question: "Can you repair cracks before painting?",
+      answer:
+        "Yes. Surface repairs form an important part of our preparation process.",
+    },
+    {
+      question: "What paint brands do you use?",
+      answer:
+        "We select premium products suitable for each property's surfaces and performance requirements.",
+    },
+    {
+      question: "Do you provide free quotations?",
+      answer:
+        "Yes. We offer detailed site assessments and transparent quotations before work begins.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Careful preparation made our townhouse look fresh again. The team worked neatly, protected everything and delivered a clean, high-quality finish.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed office decorating between tenants. Primrose Hill Painters finished on time, kept disruption low and left the space ready.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "After water damage, the rooms looked uneven. The team repaired, prepared and repainted everything beautifully. The finish now looks seamless.",
+    },
+  ],
+
+  ctaTitle: "Start Your Westminster Painting Project Today",
+  ctaDescription:
+    "If you are planning interior painting, exterior decorating, refurbishment work or property maintenance in Westminster SW1, we are ready to help. We provide honest advice, detailed quotations, careful preparation and high-quality finishes tailored to your property's requirements. Contact us today to discuss your project and arrange a professional site assessment.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+{
+  slug: "painters-decorators-whetstone-n20",
+
+  heroImageAlt: "Whetstone family home interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters & Decorators Whetstone N20",
+  heroDescription:
+    "Keeping a property looking its best requires more than simply applying paint. At Primrose Hill Painters, we provide professional painting and decorating services throughout Whetstone N20. We work with homeowners, landlords, businesses and property managers who expect reliable workmanship and lasting finishes. From family homes near Totteridge Lane to modern developments across North London, we deliver decorating solutions tailored to the property's condition, style and long-term needs.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Property Owners Trust Primrose Hill Painters in Whetstone",
+  trustPoints: [
+    "Over 20 years of decorating experience across London homes, apartments, commercial premises and heritage properties.",
+    "Our team is fully insured and follows proven preparation methods that help achieve durable and professional results.",
+    "We understand the requirements of both traditional North London homes and modern residential developments.",
+    "Property owners trust us for honest advice, quality materials, reliable scheduling and consistently high standards.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and professional decorating materials",
+  craftsmanshipTitle: "Quality Decorating Built Around Long-Term Performance",
+  craftsmanshipParagraphs: [
+    "A successful decorating project starts long before the first coat of paint. We focus on preparation, surface condition, moisture control and product selection. This approach helps finishes last longer and perform better.",
+    "Our experience spans period houses, family homes, apartment blocks and commercial buildings.",
+    "We combine traditional decorating skills with modern products and application methods to achieve attractive, durable finishes that suit today's living standards while respecting original property features.",
+  ],
+
+  propertiesTitle: "Painting and Decorating Solutions for Whetstone N20 Properties",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Whetstone residential interior",
+  propertiesParagraphs: [
+    "Whetstone offers a mixture of detached homes, period properties, family houses, apartments and local commercial premises. Different property styles create different decorating requirements.",
+    "Some homes require careful restoration work while newer buildings benefit from modern decorating systems designed for durability and low maintenance.",
+    "Repair and maintenance activity remains an important part of the UK's construction sector, reflecting continued investment in property upkeep and improvement. Ongoing housing maintenance also plays an important role in preserving property quality.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Whetstone property interior after professional redecoration",
+  caseStudyTitle: "Recent Whetstone Decorating Project",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A homeowner in Whetstone contacted us before placing their property on the market.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "Several rooms showed signs of aging. Wall surfaces contained cracks, woodwork had yellowed over time and previous decorating work had left visible roller marks and uneven finishes. The client also faced a strict marketing deadline.",
+
+  caseStudySolutionTitle: "Our Solution",
+  caseStudySolutionSteps: [
+    "Step 1 – Property Inspection: Assessed walls, ceilings, woodwork and previous paint coatings.",
+    "Step 2 – Surface Preparation: Repaired cracks and filled, sanded and correctly prepared surfaces.",
+    "Step 3 – Woodwork Restoration: Doors, skirting boards and trims received specialist preparation and refinishing.",
+    "Step 4 – Professional Decoration: Applied premium paints using techniques suited to each room.",
+    "Step 5 – Final Quality Checks: Inspected every surface under natural and artificial lighting.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The property achieved a brighter, cleaner appearance and was ready for professional photography within schedule. The improved presentation helped create stronger buyer interest during viewings.",
+
+  caseStudyQuote:
+    "The house had several decorating issues that became obvious during viewings. Primrose Hill Painters approached everything professionally and explained the process clearly. Their preparation work made a huge difference. The walls, ceilings and woodwork now look flawless. The team finished on time, kept everything tidy and helped us present the property in the best possible condition.",
+
+  servicesTitle: "Our Whetstone N20 Painting and Decorating Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Whetstone residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "Professional decorating for living rooms, bedrooms, kitchens, hallways and apartments.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "Weather-resistant coatings for houses, residential blocks and commercial buildings.",
+    },
+    {
+      title: "Residential Painters",
+      description:
+        "Complete home decorating services tailored to property style and condition.",
+    },
+    {
+      title: "Commercial Painting",
+      description:
+        "Professional decorating solutions for offices, shops and business premises.",
+    },
+    {
+      title: "Period Property Decorating",
+      description:
+        "Careful restoration and decorating for traditional and character properties.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "Accurate installation of premium wallcoverings and feature walls.",
+    },
+    {
+      title: "Woodwork Painting",
+      description:
+        "Professional finishes for doors, staircases, skirting boards, cabinets and bespoke joinery.",
+    },
+    {
+      title: "Spray Painting",
+      description:
+        "Smooth modern finishes for selected residential and commercial projects.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "North London period home decorative interior",
+  faqItems: [
+    {
+      question: "How long does a decorating project take?",
+      answer:
+        "Project length depends on property size, preparation requirements and the scope of work.",
+    },
+    {
+      question: "Do you provide free quotations?",
+      answer:
+        "Yes. We provide detailed assessments and transparent quotations before work begins.",
+    },
+    {
+      question: "Can you repair damaged walls before painting?",
+      answer:
+        "Yes. Surface repairs are completed before decoration to ensure a smooth finish.",
+    },
+    {
+      question: "Do you work on period properties?",
+      answer:
+        "Yes. We regularly decorate and restore traditional North London properties.",
+    },
+    {
+      question: "What paint products do you use?",
+      answer:
+        "We select high-quality products based on surface condition and project requirements.",
+    },
+    {
+      question: "Are you fully insured?",
+      answer:
+        "Yes. Our team carries appropriate insurance for residential and commercial work.",
+    },
+    {
+      question: "Do you offer exterior painting?",
+      answer:
+        "Yes. We provide complete exterior decorating and property maintenance services.",
+    },
+    {
+      question: "Can decorating increase property value?",
+      answer:
+        "Well-presented properties often create stronger impressions for buyers, tenants and visitors.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our stairwell looked tired and marked. Primrose Hill Painters repaired the walls, sharpened the woodwork and kept the work tidy.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "The wallpaper needed careful handling. The team prepared the wall properly, matched the pattern well and left a clean finish.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "Our wardrobes looked worn. Primrose Hill Painters repainted them neatly and the room now feels fresh without replacing the joinery.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting Project in Whetstone Today",
+  ctaDescription:
+    "Whether you are planning a full property refurbishment, preparing a home for sale, upgrading a rental property or refreshing your business premises, we are ready to help. We provide clear advice, detailed quotations, quality workmanship and reliable project management throughout Whetstone N20 and the surrounding North London area.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
 
 
+{
+  slug: "painters-and-decorators-west-brompton-sw5",
+
+  heroImageAlt: "West Brompton apartment interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters for Painting and Decorating in West Brompton SW5",
+  heroDescription:
+    "West Brompton SW5 homes need decorating that respects detail, access and building character. Primrose Hill Painters provides careful painting and decorating in West Brompton SW5 for apartments, townhouses, period interiors, joinery and exterior finishes. We focus on preparation, clean protection and suitable materials, so each surface is finished properly without unnecessary disruption to daily life.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Homeowners Trust Primrose Hill Painters",
+  trustPoints: [
+    "Over 20 years of hands-on experience across period homes, listed buildings and refined London interiors.",
+    "We protect floors, furniture and shared spaces, making our work suitable for occupied homes and managed apartments.",
+    "We choose primers, paints and preparation methods based on plaster, timber, masonry, light and daily property use.",
+    "We work with homeowners, designers and property managers who need tidy conduct, clear timing and dependable finishing standards.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Careful Finishes for Demanding Interiors",
+  craftsmanshipParagraphs: [
+    "Good decorating depends on preparation, not just colour. Older plaster can need stabilising. Timber joinery needs sanding, priming and controlled finishing.",
+    "Modern apartments need sharp lines, durable coatings and tidy scheduling.",
+    "Our approach combines traditional decorating skill with suitable modern materials, helping each finish suit the property, the surface and the way the room is used.",
+  ],
+
+  propertiesTitle: "Painting and Decorating for SW5 Properties",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant West Brompton residential interior",
+  propertiesParagraphs: [
+    "West Brompton SW5 sits close to Earls Court, Chelsea and Fulham, with apartments, mansion blocks, terraces and managed buildings.",
+    "This mix creates practical demands. Access, shared corridors, dust control and exterior appearance all need careful planning.",
+    "Kensington and Chelsea contains extensive conservation areas, while Brompton Cemetery is a Grade I listed historic landscape. The heritage character of the wider West Brompton setting makes careful exterior and visible finishes particularly important.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "West Brompton apartment interior after redecoration",
+  caseStudyTitle: "Apartment Repaint and Joinery Refresh",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A private homeowner in a managed West Brompton SW5 apartment needed a cleaner interior finish before moving back into the property.",
+    "The work covered walls, ceilings, doors, skirting and fitted storage.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The apartment had limited access, shared corridors and strict working times. Previous paintwork showed roller marks beside the windows. The joinery had chips around handles and uneven old gloss. The client wanted a smart finish without dust spreading through the building.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Reviewed access, protection requirements and working hours.",
+    "Step 2: Covered floors, doorways and shared routes before work began.",
+    "Step 3: Filled small cracks, sanded rough areas and spot-primed repaired sections.",
+    "Step 4: Degreased, sanded and separately prepared the joinery.",
+    "Step 5: Applied final coats in stages according to the property's access and usage requirements.",
+    "Step 6: Cleaned each area daily to keep the flat and shared spaces tidy throughout the project.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The apartment looked brighter and more even in natural light. The doors and fitted storage had a smoother finish. The client received a neat, organised service that worked around building rules and moving dates.",
+
+  caseStudyQuote:
+    "We were worried about the shared hallway and dust because the building has strict rules. The team planned everything properly, protected the access areas and kept the flat tidy each day. The finish looks much sharper now, especially around the windows and joinery. It felt carefully done, not rushed.",
+
+  servicesTitle: "Our Services in West Brompton SW5",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated West Brompton residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting and Decorating",
+      description:
+        "Smooth wall, ceiling and woodwork finishes for apartments, townhouses, mansion flats and managed residential buildings.",
+    },
+    {
+      title: "Exterior Painting and Restoration",
+      description:
+        "Careful preparation for masonry, render, timber frames, doors, railings and visible exterior details.",
+    },
+    {
+      title: "Hand-Painted Kitchens and Joinery",
+      description:
+        "Refined finishes for cabinets, wardrobes, shelving, doors and fitted furniture needing a clean update.",
+    },
+    {
+      title: "Wallpaper and Wallcoverings",
+      description:
+        "Neat wall preparation and precise hanging for feature walls, full rooms and premium interiors.",
+    },
+    {
+      title: "Woodwork and Cornice Restoration",
+      description:
+        "Repair and repainting for trims, skirting, mouldings, frames and decorative interior features.",
+    },
+    {
+      title: "Spray Painting Applications",
+      description:
+        "Smooth sprayed finishes for selected joinery, doors, panels and furniture where a cleaner result is required.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "West Brompton period property decorative interior",
+  faqItems: [
+    {
+      question: "Do you provide interior painting in West Brompton SW5?",
+      answer:
+        "Yes. We paint walls, ceilings, woodwork, doors and detailed interior features in West Brompton SW5 homes.",
+    },
+    {
+      question: "Can you paint rental properties between tenants?",
+      answer:
+        "Yes. We can prioritise visible areas and work to practical deadlines between occupancy or viewings.",
+    },
+    {
+      question: "Do you offer exterior decorating in SW5?",
+      answer:
+        "Yes. We paint exterior timber, masonry, doors, railings and architectural details after proper preparation.",
+    },
+    {
+      question: "Can you work while we live in the property?",
+      answer:
+        "Yes. We plan rooms in stages, protect furniture and keep the home clean during work.",
+    },
+    {
+      question: "Do you paint kitchen cabinets and wardrobes?",
+      answer:
+        "Yes. We prepare, prime and paint fitted joinery for a cleaner, more modern finish.",
+    },
+    {
+      question: "Can you hang specialist wallpaper?",
+      answer:
+        "Yes. We prepare walls carefully and hang standard, textured and premium wallcoverings.",
+    },
+    {
+      question: "Do conservation-area homes need extra care?",
+      answer:
+        "Yes. Visible exterior changes and older building features may need careful planning and suitable materials.",
+    },
+    {
+      question: "How do we request a quote?",
+      answer:
+        "Send the postcode, photos and project details and we will advise on the next practical step.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "We had tired walls and marked skirting throughout the flat. The previous decorating looked flat and patchy in daylight. Primrose Hill Painters repaired the surfaces properly, protected the floors and worked neatly around our furniture. The rooms now feel cleaner, brighter and much easier to live in.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "Our fitted cupboards looked worn, but we did not want to replace them. The team prepared the doors, repaired small chips and repainted the joinery with care. The finish made the bedroom feel smarter straight away. We also appreciated the quiet, tidy way the work was handled.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "We needed a quick but proper refresh before new tenants arrived. The team gave clear advice on what mattered most, then focused on the visible walls, woodwork and hallway areas. The property looked fresher, cleaner and ready for viewings without feeling like a rushed repaint.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting and Decorating Project in West Brompton SW5 Today",
+  ctaDescription:
+    "If your West Brompton SW5 property needs careful decorating, we can review the surfaces, access and finish required before giving practical advice. Primrose Hill Painters helps homeowners, landlords and property managers plan painting, joinery, wallpapering and restoration work with tidy methods, clear scheduling and finishes suited to the building.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+{
+  slug: "painters-and-decorators-victoria-sw1",
+
+  heroImageAlt: "Victoria SW1 apartment interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters for Painting and Decorating in Victoria SW1",
+  heroDescription:
+    "Victoria SW1 needs decorating that works around busy homes, managed apartments, offices and older buildings. Primrose Hill Painters provides careful painting and decorating in Victoria SW1, with a strong focus on preparation, clean working and suitable finishes. We help homeowners, landlords and property managers improve interiors, exteriors, joinery and wall finishes without unnecessary disruption.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Homeowners Trust Primrose Hill Painters",
+  trustPoints: [
+    "Over 20 years of hands-on experience across period homes, listed buildings and refined London interiors.",
+    "We protect floors, furniture and shared spaces, making our work suitable for occupied homes and managed apartments.",
+    "We choose paints, primers and preparation methods according to plaster, timber, masonry and daily property use.",
+    "We work with homeowners, designers and property managers who need clear timing, tidy conduct and reliable finishing.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Careful Decorating for Refined Homes",
+  craftsmanshipParagraphs: [
+    "Good decorating starts before paint is applied. Walls need checking, cracks need repair and timber needs sanding, priming and proper finishing.",
+    "Older properties may need more careful materials, while modern homes need clean lines and durable surfaces.",
+    "Our work balances traditional skill with practical modern methods, so the final finish suits the building and lasts well.",
+  ],
+
+  propertiesTitle: "A Smart Approach for Central London Properties",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Victoria SW1 residential interior",
+  propertiesParagraphs: [
+    "Victoria SW1 has a mix of apartments, townhouses, managed blocks, commercial buildings and heritage-sensitive properties.",
+    "This makes planning important. Access, noise, dust control and working hours must be handled properly.",
+    "Westminster has 56 conservation areas, and some building changes may require extra care or permission. Victoria is also identified as an Opportunity Area with planned capacity for new homes and jobs, highlighting the importance of well-maintained interiors and building finishes in this busy central district.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Victoria SW1 apartment interior after redecoration",
+  caseStudyTitle: "Interior Repaint and Joinery Refresh",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A private homeowner in a managed apartment near Victoria SW1 needed a full interior refresh before new furniture arrived.",
+    "The work included walls, ceilings, skirting, doors and fitted joinery.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The apartment had strict building access rules and shared corridors. Previous paintwork showed roller marks in daylight. The joinery had chips around handles and uneven old gloss. The client wanted a cleaner finish without dust, delays or disruption to neighbours.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Checked access times and protection needs before starting.",
+    "Step 2: Covered floors, lift routes and shared entrance areas.",
+    "Step 3: Repaired small cracks, sanded rough areas and primed repaired sections.",
+    "Step 4: Degreased, sanded and carefully finished the joinery.",
+    "Step 5: Completed rooms in stages with daily clean-downs to keep the flat usable.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The apartment looked brighter, cleaner and more balanced in natural light. The joinery had a smoother finish and the shared areas stayed protected throughout. The client received a calm, tidy service with no unnecessary disruption.",
+
+  caseStudyQuote:
+    "We needed the flat ready before furniture delivery, so timing mattered. The team handled the access rules, protected the shared areas and kept everything tidy. What impressed us most was the preparation. The walls now look smooth in daylight and the doors and joinery feel properly finished rather than quickly painted.",
+
+  servicesTitle: "Our Services in Victoria SW1",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Victoria SW1 residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting and Decorating",
+      description:
+        "Smooth wall, ceiling and woodwork finishes for apartments, homes, townhouses and managed residential buildings.",
+    },
+    {
+      title: "Exterior Painting and Restoration",
+      description:
+        "Careful preparation for masonry, render, timber frames, doors, railings and visible exterior details.",
+    },
+    {
+      title: "Hand-Painted Kitchens and Joinery",
+      description:
+        "Refined finishes for cabinets, wardrobes, shelving, doors and fitted furniture needing a clean update.",
+    },
+    {
+      title: "Wallpaper and Wallcoverings",
+      description:
+        "Neat wall preparation and precise hanging for feature walls, full rooms and premium interiors.",
+    },
+    {
+      title: "Woodwork and Cornice Restoration",
+      description:
+        "Repair and repainting for trims, skirting, mouldings, frames and decorative interior features.",
+    },
+    {
+      title: "Spray Painting Applications",
+      description:
+        "Smooth sprayed finishes for selected joinery, doors, panels and furniture where a clean result is required.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Victoria period property decorative interior",
+  faqItems: [
+    {
+      question: "Do you provide interior painting in Victoria SW1?",
+      answer:
+        "Yes. We paint walls, ceilings, woodwork, doors and detailed interior features in Victoria SW1 homes.",
+    },
+    {
+      question: "Can you paint rental properties between tenants?",
+      answer:
+        "Yes. We can prioritise visible areas and work to practical deadlines between occupancy or viewings.",
+    },
+    {
+      question: "Do you offer exterior decorating in SW1?",
+      answer:
+        "Yes. We paint exterior timber, masonry, doors, railings and architectural details after proper preparation.",
+    },
+    {
+      question: "Can you work while we live in the property?",
+      answer:
+        "Yes. We plan rooms in stages, protect furniture and keep the home clean during work.",
+    },
+    {
+      question: "Do you paint kitchen cabinets and wardrobes?",
+      answer:
+        "Yes. We prepare, prime and paint fitted joinery for a cleaner, more modern finish.",
+    },
+    {
+      question: "Can you hang specialist wallpaper?",
+      answer:
+        "Yes. We prepare walls carefully and hang standard, textured and premium wallcoverings.",
+    },
+    {
+      question: "Do listed buildings need permission before repainting?",
+      answer:
+        "Some changes may need consent. Owners should check before altering protected interiors or exteriors.",
+    },
+    {
+      question: "How do we request a quote?",
+      answer:
+        "Send the postcode, photos and project details and we will advise on the next practical step.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "We had an apartment that looked tired, especially around the hallway and living room. The previous paint showed every mark in daylight. Primrose Hill Painters prepared the walls properly, protected the floors and worked around our building rules. The result feels much cleaner and more professional.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "Our fitted wardrobes looked worn, but replacing them felt wasteful. The team repaired small chips, prepared the surfaces and repainted the joinery with care. The finish made the room feel sharper straight away. We also appreciated the tidy working style while we stayed in the property.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "We needed decorating completed between tenants, with very little time to spare. The work had to be clean, practical and ready for viewings. Primrose Hill Painters gave clear advice, focused on the most visible areas and delivered a smart finish. The property looked brighter and easier to present.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting and Decorating Project in Victoria SW1 Today",
+  ctaDescription:
+    "If your Victoria SW1 property needs careful decorating, we can review the surfaces, access and finish required before giving practical advice. Primrose Hill Painters helps homeowners, landlords and property managers plan painting, joinery, wallpapering and restoration work with tidy methods, clear scheduling and finishes suited to the building.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+{
+  slug: "painters-and-decorators-totteridge-n20",
+
+  heroImageAlt: "Totteridge family home interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters for Painting and Decorating in Totteridge N20",
+  heroDescription:
+    "Totteridge homes need decorating that respects structure, detail and daily life. Primrose Hill Painters provides careful painting and decorating in Totteridge N20 for period homes, modern interiors, joinery and exterior finishes. We focus on clean preparation, suitable materials and low-disruption work, especially where older surfaces, detailed woodwork or conservation-sensitive settings need a more considered approach.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Homeowners Trust Primrose Hill Painters",
+  trustPoints: [
+    "Over 20 years of hands-on decorating experience across period homes, listed buildings and refined modern London interiors.",
+    "We use careful preparation, dust protection and tidy working methods to keep occupied homes clean during the project.",
+    "We plan finishes around the surface, building age, light levels and daily use, not just colour preference.",
+    "We work with homeowners, designers and property professionals who need reliable scheduling, discreet conduct and consistent finishing standards.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Careful Finishes for Character Homes",
+  craftsmanshipParagraphs: [
+    "Our work balances traditional decorating skills with modern coating systems. Older plaster, timber, cornices and joinery need careful preparation before paint is applied.",
+    "Modern homes need sharp lines, smooth surfaces and durable finishes. We choose materials according to condition, room use and finish type, so the work looks right and lasts longer.",
+  ],
+
+  propertiesTitle: "Painting and Decorating for Distinctive N20 Homes",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Totteridge residential interior",
+  propertiesParagraphs: [
+    "Totteridge has a strong residential character, with larger homes, green surroundings and properties where appearance matters from the entrance gate to the final interior detail.",
+    "Barnet Council describes the Totteridge Conservation Area as a ribbon of development set within green fields on three sides, with around 450 properties inside the conservation area.",
+    "Conservation areas have special architectural or historic interest and some works may need consent where controls apply. This makes surface treatment, exterior colour, timber repair and visible finishing choices more important for homes in and around Totteridge.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Totteridge family home interior after redecoration",
+  caseStudyTitle: "Interior and Joinery Decorating for an Occupied Family Home",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "A private family home in Totteridge N20 needed interior repainting, joinery refinishing and hallway restoration while the family remained in the property.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The main issue was not only faded paint. The hallway had hairline cracks, marked woodwork and uneven previous repairs. The kitchen joinery had small chips around handles and frame edges. The client wanted a refined finish without heavy disruption, dust or long delays.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Protected the floors, stairs and fixed furniture.",
+    "Step 2: Checked each surface, marked weak areas and repaired cracks before sanding.",
+    "Step 3: Stabilised uneven patches and primed repaired sections.",
+    "Step 4: Prepared the joinery separately for its finishing system.",
+    "Step 5: Applied final coats in stages, allowing proper drying time between applications.",
+    "Step 6: Completed daily clean-downs to keep the home usable throughout the project.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The hallway looked brighter, the joinery regained a smoother finish and the home stayed usable during the work. The client was pleased with the calm process, clean working style and improved finish across the main living areas.",
+
+  caseStudyQuote:
+    "We were worried about dust, mess and having people working around the family home. The team handled the project carefully from the first day. They protected everything, explained each stage and kept the house tidy. The finish on the hallway and kitchen joinery feels much cleaner and more refined than before.",
+
+  servicesTitle: "Our Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Decorated Totteridge residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting and Decorating",
+      description:
+        "Clean wall, ceiling and woodwork finishes for family homes, apartments and larger residential interiors.",
+    },
+    {
+      title: "Exterior Painting and Restoration",
+      description:
+        "Careful preparation for timber, masonry, render and visible architectural details exposed to London weather.",
+    },
+    {
+      title: "Hand-Painted Kitchens and Joinery",
+      description:
+        "Durable finishes for cabinets, wardrobes, doors, shelves and fitted furniture needing a refined update.",
+    },
+    {
+      title: "Wallpaper and Wallcoverings",
+      description:
+        "Precise hanging for feature walls, full rooms, textured papers and premium wallcovering finishes.",
+    },
+    {
+      title: "Cornice and Woodwork Restoration",
+      description:
+        "Detailed repair and repainting for mouldings, trims, skirting, frames and older decorative features.",
+    },
+    {
+      title: "Spray Finishes for Cabinetry",
+      description:
+        "Smooth sprayed finishes for selected joinery, furniture and built-in pieces where a clean result is needed.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Totteridge period home decorative interior",
+  faqItems: [
+    {
+      question: "Do you paint occupied homes?",
+      answer:
+        "Yes. We protect floors, furniture and surfaces, then work in organised stages to reduce disruption.",
+    },
+    {
+      question: "Can you decorate listed or conservation-sensitive properties?",
+      answer:
+        "Yes. We use careful methods and suitable materials where older buildings or visible features need extra care.",
+    },
+    {
+      question: "Do you offer exterior painting in Totteridge N20?",
+      answer:
+        "Yes. We repaint timber, masonry, render and exterior details after checking condition and access.",
+    },
+    {
+      question: "Can you repair cracks before painting?",
+      answer:
+        "Yes. We repair cracks, stabilise weak areas, sand surfaces and prime repairs before applying final coats.",
+    },
+    {
+      question: "Do you provide wallpaper hanging?",
+      answer:
+        "Yes. We hang standard, textured and specialist wallcoverings with careful wall preparation and neat seams.",
+    },
+    {
+      question: "Can you repaint fitted wardrobes?",
+      answer:
+        "Yes. We prepare, prime and finish fitted wardrobes, cabinets, doors and other joinery.",
+    },
+    {
+      question: "Do you help choose colours?",
+      answer:
+        "Yes. We advise on finishes and colours based on light, room use, surface type and property style.",
+    },
+    {
+      question: "How do I request a quote?",
+      answer:
+        "Send your postcode, photos and project details so we can advise on the next step or site visit.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "The difference was in the preparation. We had cracks and dull walls that previous decorators had simply painted over. This time, the surfaces were repaired properly before colour went on. The rooms now look sharper in natural light and the work was completed without the usual stress.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "Our fitted cupboards looked tired, but we did not want to replace them. Primrose Hill Painters prepared the doors, repaired small chips and gave the joinery a much cleaner finish. It saved us from a bigger renovation and made the whole room feel more considered.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "We needed exterior decoration handled carefully because the front of the property is very visible. The team gave practical advice, prepared the timber properly and kept the work organised. The final finish looks smart without feeling too new or out of place.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting and Decorating Project in Totteridge N20 Today",
+  ctaDescription:
+    "If your home needs careful decorating, we can review the rooms, surfaces and finish you want before giving practical advice. Primrose Hill Painters helps Totteridge homeowners plan painting, wallpapering, joinery and restoration work with clear preparation, tidy working and finishes suited to the property.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+
+{
+  slug: "the-boltons-painters",
+
+  heroImageAlt: "Period home interior painting and decorating in The Boltons",
+  heroTitle:
+    "Primrose Hill Painters – Residential Painting in The Boltons, Chelsea",
+  heroDescription:
+    "The Boltons is one of Chelsea’s most carefully protected residential areas, so painting here needs more than a neat finish. It needs calm planning, careful preparation and respect for period detail. Primrose Hill Painters provides interior and exterior decorating for The Boltons homes, including townhouses, listed properties, conservation-area houses and refined modern interiors.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Primrose Hill Painters Is Trusted in The Boltons",
+  trustPoints: [
+    "Over 20 years of hands-on experience across period, listed, conservation-area and high-end London homes.",
+    "We protect floors, furniture, joinery, artwork and delicate surfaces before any preparation or painting begins.",
+    "We use suitable primers, breathable finishes where needed and careful methods for older plaster and timber.",
+    "We work discreetly in occupied homes, with tidy planning, clear communication and fully insured professional standards.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "Careful Painting That Respects the Home",
+  craftsmanshipParagraphs: [
+    "Good decorating in The Boltons should protect the building, not just change the colour. Many homes have older plaster, timber windows, detailed cornices and high-value interiors.",
+    "We plan each job around the surface condition, light, moisture, access and daily use of the home.",
+    "Our work combines traditional preparation with modern paint systems. We focus on clean edges, smooth coverage, stable surfaces and finishes that suit the property’s age. This helps the home look fresh without losing its original character.",
+  ],
+
+  propertiesTitle: "Painting Challenges in The Boltons Conservation Area",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant Chelsea period home interior",
+  propertiesParagraphs: [
+    "The Boltons have a distinctive Chelsea character, with large period homes, garden-square settings, managed buildings and carefully maintained façades.",
+    "In this type of area, exterior appearance, material choice and surface treatment matter. A rushed decorating job can look out of place quickly.",
+    "Kensington and Chelsea has a strong heritage setting, with thousands of listed buildings and many homes within conservation areas. Conservation areas protect places with special architectural or historic interest, meaning painting should be planned with care, especially on exteriors, timber details and visible elevations.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Period home interior after repainting in The Boltons",
+  caseStudyTitle: "Repainting a Period Home Near The Boltons",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Private homeowner near The Boltons",
+    "Property with older plaster, detailed woodwork and rooms with strong natural light",
+    "The client wanted a cleaner, more elegant finish without making the home look overdone.",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The previous paintwork had started to show patchy areas, fine cracks and uneven sheen. The hallway and living room looked tired in daylight. Some woodwork had thick old paint layers, which made the edges look heavy. The main challenge was to improve the finish while keeping the home’s period feel. The work also had to be completed with low disruption because the property was occupied.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Completed a full room-by-room surface check, including plaster cracks, old paint build-up, timber movement and areas where light made imperfections more visible.",
+    "Step 2: Protected floors, stairs, furniture, sockets, switches and joinery before preparation started.",
+    "Step 3: Sanded uneven paint, filled cracks, stabilised weak areas and primed repaired surfaces.",
+    "Step 4: Prepared the woodwork carefully so the final finish looked sharper while still suiting the property.",
+    "Step 5: Applied the chosen paint system in controlled coats.",
+    "Step 6: Checked each room in daylight and evening light before completing final touch-ups.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The rooms looked brighter, calmer and more balanced. The woodwork had cleaner lines and the walls had a smoother finish with less visible patching. The client also avoided unnecessary replacement work because the right preparation restored several tired areas.",
+
+  caseStudyQuote:
+    "The team understood the house before they started painting. That made a real difference. The preparation was careful, the rooms were protected properly and the final finish feels calm and natural. Nothing looked rushed or heavy. It was a much better experience than the previous decorating work we had done.",
+
+  servicesTitle: "Our Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Refined Chelsea residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "Careful wall, ceiling and trim painting for refined Chelsea homes with strong attention to preparation.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "Exterior timber, doors, windows and façade painting planned around weather, access and local character.",
+    },
+    {
+      title: "Period Property Decorating",
+      description:
+        "Sensitive decorating for older plaster, cornices, mouldings, fireplaces and traditional room layouts.",
+    },
+    {
+      title: "Listed Building Painting",
+      description:
+        "Careful surface preparation and suitable finishes for protected homes and heritage-sensitive interiors.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "Wall preparation and premium wallpaper installation with clean seams, accurate alignment and tidy finishing.",
+    },
+    {
+      title: "Hand-Painted Joinery",
+      description:
+        "Smooth painting for cabinets, wardrobes, doors, panels and detailed timber features.",
+    },
+    {
+      title: "Woodwork Restoration",
+      description:
+        "Preparation and repainting for skirting boards, frames, stair details, windows and decorative trims.",
+    },
+    {
+      title: "Designer-Led Decorating",
+      description:
+        "Support for homeowners, designers, architects and property managers needing a coordinated finish schedule.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Period home decorative interior in Chelsea",
+  faqItems: [
+    {
+      question: "Do you provide painting services in The Boltons?",
+      answer:
+        "Yes. We provide interior, exterior, period property, joinery and wallpaper services for homes in The Boltons.",
+    },
+    {
+      question: "Are you suitable for listed buildings?",
+      answer:
+        "Yes. We use careful methods and suitable finishes for listed, period and heritage-sensitive London homes.",
+    },
+    {
+      question: "Do you help with colour choices?",
+      answer:
+        "Yes. We advise on colours that suit room light, property age, existing features and the desired finish.",
+    },
+    {
+      question: "Can you work around residents?",
+      answer:
+        "Yes. We plan work in stages, protect the home and keep disruption as low as possible.",
+    },
+    {
+      question: "Do you paint exterior timber?",
+      answer:
+        "Yes. We paint doors, windows, frames and timber details using proper preparation and durable finishes.",
+    },
+    {
+      question: "Do you offer wallpaper hanging?",
+      answer:
+        "Yes. We prepare walls and hang premium wallcoverings with accurate alignment and clean finishing.",
+    },
+    {
+      question: "How long does a painting project take?",
+      answer:
+        "Timing depends on room size, preparation needs, drying time, access and the number of areas involved.",
+    },
+    {
+      question: "Why choose Primrose Hill Painters?",
+      answer:
+        "Choose us for careful preparation, discreet service, heritage awareness, tidy work and over 20 years of experience.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "We needed a repaint before the family arrived, but we were worried about mess and disruption. The work was planned properly, the house stayed tidy and the finish looked far better than expected. The team was calm, polite and easy to have around.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "Our hallway had cracks, marks and tired woodwork. The team explained what needed repairing before painting. The result looks fresh but still suits the age of the house. It feels like proper preparation made the biggest difference.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "We had uneven walls after a previous decorator. Primrose Hill Painters corrected the surface carefully and helped us choose a softer finish. The room now looks much cleaner in natural light. The work felt organised from start to finish.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting Project in The Boltons Today",
+  ctaDescription:
+    "If your home in The Boltons needs careful repainting, refined decorating or sensitive restoration, Primrose Hill Painters can help. We plan every stage properly, protect your home and deliver finishes suited to Chelsea’s period and modern interiors.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
+
+
+{
+  slug: "the-bishops-avenue",
+
+  heroImageAlt: "Luxury residential interior painting and decorating",
+  heroTitle:
+    "Primrose Hill Painters – The Bishops Avenue Residential Painters",
+  heroDescription:
+    "Large homes need calm planning, careful preparation and finishes that last. On The Bishops Avenue, the standard is different because every surface is visible, valuable and often architecturally sensitive. Primrose Hill Painters provides residential painting, decorating, joinery finishing, wallpapering and restoration-led work for homes that need discreet service, clean protection and a refined finish.",
+
+  trustBackgroundImage: "/bg2.jpg",
+  trustTitle: "Why Homeowners Trust Primrose Hill Painters",
+  trustPoints: [
+    "Over 20 years of hands-on decorating experience across luxury homes, period properties and modern London residences.",
+    "We plan each project around surface condition, preparation, product choice, drying time and long-term finish performance.",
+    "We protect flooring, furniture, joinery, artwork, fittings and occupied living areas with tidy, low-dust working methods.",
+    "We work with homeowners, designers, landlords and property managers who expect discretion, clarity and reliable workmanship.",
+  ],
+  trustButtonLabel: "Learn More About Our Heritage-Focused Approach",
+  trustButtonHref: "#about",
+
+  craftsmanshipImage: "/bg.png",
+  craftsmanshipImageAlt: "Paint colours and decorating materials",
+  craftsmanshipTitle: "A Refined Finish Starts with Discipline",
+  craftsmanshipParagraphs: [
+    "Our work starts before the first coat is applied. We inspect walls, timber, plaster, previous coatings, moisture risks and lighting conditions.",
+    "Larger homes often need different finishes across formal rooms, family spaces, staircases, joinery and exterior details.",
+    "We use traditional decorating knowledge, modern paint systems, careful masking and insured working practices to deliver a finish that suits the building.",
+  ],
+
+  propertiesTitle: "Homes with Scale Need Better Planning",
+  propertiesImage: "/arc.png",
+  propertiesImageAlt: "Elegant luxury residential interior",
+  propertiesParagraphs: [
+    "This part of North London includes large detached homes, gated properties, older mansions, modern rebuilds and refurbished family residences.",
+    "Many interiors include wide staircases, high ceilings, bespoke joinery, cinema rooms, reception spaces and staff areas. A rushed decorating approach can quickly show through.",
+    "The work needs sequencing, clean access planning and careful coordination with other trades. The Bishops Avenue sits on the eastern boundary of the Hampstead Garden Suburb conservation area, making careful treatment of visible finishes and architectural details particularly important.",
+  ],
+
+  caseStudyImage: "/image5.jpg",
+  caseStudyImageAlt: "Luxury home interior after professional repainting",
+  caseStudyTitle: "High-End Interior Repaint and Joinery Finish",
+
+  caseStudyClientDetailsTitle: "Client Details",
+  caseStudyClientDetailsItems: [
+    "Private homeowner",
+    "Large residential property with reception spaces, tall walls, fitted joinery and detailed skirting",
+    "Occupied home requiring a clean, discreet service with minimum disruption",
+  ],
+
+  caseStudyChallengeTitle: "The Challenge",
+  caseStudyChallengeText:
+    "The main issue was not colour but surface condition. Some walls had uneven filler marks, several door frames had dust marks from building work, the hallway had visible roller lines under natural light and the fitted cabinetry looked tired around the handles and edges. The property also contained valuable flooring, furniture and fitted details requiring careful protection before preparation began.",
+
+  caseStudySolutionTitle: "The Solution",
+  caseStudySolutionSteps: [
+    "Step 1: Completed a full surface check across the main rooms, hallway, doors, skirting and fitted joinery.",
+    "Step 2: Protected floors, furniture, stairs, sockets, switches and fitted units before preparation began.",
+    "Step 3: Sanded rough filler marks, repaired cracks, refilled damaged areas and stabilised surfaces where old paint had started to fail.",
+    "Step 4: Cleaned, lightly sanded, primed and prepared the joinery for a smoother finish.",
+    "Step 5: Applied suitable primers where old and new wall surfaces met to improve colour consistency.",
+    "Step 6: Applied durable finishes to the woodwork and completed the project in planned sections to minimise disruption.",
+  ],
+
+  caseStudyResultTitle: "The Result",
+  caseStudyResultText:
+    "The hallway looked brighter and smoother. The reception rooms felt cleaner and more balanced, while the fitted joinery had sharper edges and a more refined finish. The client was especially pleased that the home stayed tidy throughout the project. The final finish looked consistent in both daylight and evening lighting.",
+
+  caseStudyQuote:
+    "The difference was clear as soon as the hallway was finished. The walls looked smooth, the woodwork felt sharper and the house finally looked complete after the renovation. What we valued most was the care taken inside the home. Everything was protected, the team worked quietly and the finish felt properly considered.",
+
+  servicesTitle: "Our Services",
+  servicesImage: "/arc.png",
+  servicesImageAlt: "Refined luxury residential interior",
+  servicesItems: [
+    {
+      title: "Interior Painting",
+      description:
+        "We prepare and paint walls, ceilings, staircases, bedrooms, lounges, reception rooms and family spaces.",
+    },
+    {
+      title: "Exterior Painting",
+      description:
+        "We decorate exterior timber, masonry, doors, gates, windows and visible details with careful preparation.",
+    },
+    {
+      title: "Hand-Painted Kitchens",
+      description:
+        "We refresh kitchen cabinets, wardrobes, shelving, doors and fitted joinery with smooth hand-finished detail.",
+    },
+    {
+      title: "Wallpaper Hanging",
+      description:
+        "We install wallpapers and wallcoverings with neat alignment, clean edges and properly prepared surfaces.",
+    },
+    {
+      title: "Woodwork Restoration",
+      description:
+        "We repair, prepare and decorate skirting, doors, stair trim, mouldings, cornices and timber details.",
+    },
+    {
+      title: "Decorative Finishes",
+      description:
+        "We create subtle feature walls, specialist finishes and refined decorative surfaces for premium interiors.",
+    },
+    {
+      title: "Spray Painting",
+      description:
+        "We use spray finishing where suitable for cabinets, doors, fitted furniture and smooth modern surfaces.",
+    },
+    {
+      title: "Worksite Protection",
+      description:
+        "We protect occupied homes with floor covering, dust control, furniture protection and tidy daily routines.",
+    },
+  ],
+
+  faqTitle: "FAQ",
+  faqImage: "/image4.jpg",
+  faqImageAlt: "Luxury home decorative interior",
+  faqItems: [
+    {
+      question: "Do you provide painting for large residential homes?",
+      answer:
+        "Yes. We provide interior, exterior, joinery, wallpapering and decorative finishes for large residential homes.",
+    },
+    {
+      question: "How long does a large interior repaint take?",
+      answer:
+        "Large repaints can take one to several weeks, depending on room count, preparation, access and finish detail.",
+    },
+    {
+      question: "Do you paint fitted furniture and cabinets?",
+      answer:
+        "Yes. We prepare and paint cabinets, wardrobes, shelving, doors and fitted joinery using suitable finishing systems.",
+    },
+    {
+      question: "Can you work around other trades?",
+      answer:
+        "Yes. We can coordinate with builders, designers, carpenters and property managers to reduce disruption.",
+    },
+    {
+      question: "Do you help with colour selection?",
+      answer:
+        "Yes. We advise on colours based on light, architecture, room use, existing finishes and client preference.",
+    },
+    {
+      question: "Do older homes need special preparation?",
+      answer:
+        "Yes. Older homes often need sanding, filling, stabilising, priming and suitable materials before painting.",
+    },
+    {
+      question: "Do you handle wallpaper and wallcoverings?",
+      answer:
+        "Yes. We install wallpapers and wallcoverings after preparing surfaces for alignment, adhesion and clean edges.",
+    },
+    {
+      question: "How do I book Primrose Hill Painters?",
+      answer:
+        "Contact Primrose Hill Painters with your property details, room list, photos, access needs and preferred finish.",
+    },
+  ],
+
+  testimonialsTitle: "More Client Feedback",
+  testimonialsItems: [
+    {
+      name: "Daniel R",
+      rating: 5,
+      text:
+        "Our staircase and landing had visible marks from previous decorators. The team spent proper time on preparation before painting. That made the biggest difference. The finish now looks smooth in daylight and the house stayed tidy while the work was being completed.",
+    },
+    {
+      name: "Sophie L",
+      rating: 5,
+      text:
+        "We needed several rooms refreshed without disturbing the whole property. The planning was excellent. Rooms were completed in stages, furniture was protected and the finish around the woodwork was very neat. The service felt discreet and well managed.",
+    },
+    {
+      name: "Michael H",
+      rating: 5,
+      text:
+        "Our fitted cabinets looked tired after years of use. The team cleaned, sanded, primed and finished them carefully. They now look sharper without losing the character of the room. We appreciated the honest advice and tidy daily working style.",
+    },
+  ],
+
+  ctaTitle: "Start Your Painting Project Today",
+  ctaDescription:
+    "If your home needs careful decorating, joinery finishing, wallpapering or restoration-led preparation, we are ready to help. Primrose Hill Painters works with homeowners, designers, landlords and property managers across North London.",
+  ctaButtonLabel: "Book Consultation",
+  ctaButtonHref: "#contact",
+},
 
 
 ];
