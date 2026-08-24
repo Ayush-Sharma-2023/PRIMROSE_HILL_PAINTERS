@@ -1,9 +1,15 @@
-import { useState } from 'react';
-import { Link } from 'react-router-dom';
-import { X, ChevronDown, Plus } from 'lucide-react';
-import { NAV_LINKS } from '@/data/content';
+import { useState } from "react";
+import { Link } from "react-router-dom";
+import { X, ChevronDown, Plus } from "lucide-react";
+import { NAV_LINKS } from "@/data/content";
 
-export default function SidePanel({ open, onClose }: { open: boolean; onClose: () => void }) {
+export default function SidePanel({
+  open,
+  onClose,
+}: {
+  open: boolean;
+  onClose: () => void;
+}) {
   const [servicesOpen, setServicesOpen] = useState(false);
 
   return (
@@ -11,7 +17,7 @@ export default function SidePanel({ open, onClose }: { open: boolean; onClose: (
       {/* Overlay */}
       <div
         className={`fixed inset-0 z-40 bg-charcoal-900/50 transition-opacity duration-300 ${
-          open ? 'opacity-100' : 'opacity-0 pointer-events-none'
+          open ? "opacity-100" : "opacity-0 pointer-events-none"
         }`}
         onClick={onClose}
         aria-hidden="true"
@@ -20,7 +26,7 @@ export default function SidePanel({ open, onClose }: { open: boolean; onClose: (
       {/* Panel */}
       <aside
         className={`fixed top-0 right-0 bottom-0 z-50 w-full max-w-md bg-cream-50 shadow-2xl flex flex-col transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ${
-          open ? 'translate-x-0' : 'translate-x-full'
+          open ? "translate-x-0" : "translate-x-full"
         }`}
         aria-hidden={!open}
       >
@@ -48,13 +54,15 @@ export default function SidePanel({ open, onClose }: { open: boolean; onClose: (
                       {link.label}
                       <Plus
                         className={`w-4 h-4 transition-transform duration-300 ${
-                          servicesOpen ? 'rotate-45' : ''
+                          servicesOpen ? "rotate-45" : ""
                         }`}
                       />
                     </button>
                     <ul
                       className={`overflow-hidden transition-all duration-400 ${
-                        servicesOpen ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
+                        servicesOpen
+                          ? "max-h-[600px] opacity-100"
+                          : "max-h-0 opacity-0"
                       }`}
                     >
                       {link.children.map((child) => (
@@ -92,7 +100,7 @@ export default function SidePanel({ open, onClose }: { open: boolean; onClose: (
             Get a Quote
           </a>
           <p className="mt-4 text-xs text-charcoal-400 text-center tracking-wide">
-            Primrose Hill, NW8 · +44 7788 516436
+            London NW9 · +44 7788 516436
           </p>
         </div>
       </aside>

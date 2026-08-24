@@ -1,5 +1,5 @@
 const siteData = [
-  {
+{
     slug: "holland-park",
 
     heroImageAlt: "Luxury interior painting and decorating",
@@ -188,7 +188,7 @@ const siteData = [
     ctaButtonLabel: "Book Consultation",
     ctaButtonHref: "#contact",
 
-  },
+},
   
 {
   slug: "hyde-park-w2-painters-decorators",
@@ -380,7 +380,6 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
-
 {
   slug: "painters-decorators-ingram-avenue",
 
@@ -569,7 +568,6 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
-
 {
   slug: "primrose-hill-painters-islington-n1",
 
@@ -749,7 +747,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "painters-and-decorators-kensington-2",
@@ -1111,7 +1108,6 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
-
 {
   slug: "painters-decorators-maida-vale",
 
@@ -1300,6 +1296,7 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
+
 {
   slug: "painters-decorators-marylebone",
 
@@ -1489,7 +1486,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "mayfair-painters-decorators",
@@ -1860,7 +1856,6 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
-
 {
   slug: "fulham-painters",
 
@@ -2045,7 +2040,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "west-hampstead-painters",
@@ -2238,7 +2232,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "primrose-hill-painters-westminster-sw1",
@@ -2615,7 +2608,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "painters-and-decorators-west-brompton-sw5",
@@ -3154,7 +3146,6 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
-
 {
   slug: "the-boltons-painters",
 
@@ -3345,7 +3336,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "the-bishops-avenue",
@@ -3728,8 +3718,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
-// counter
 
 {
   slug: "st-johns-wood-painters",
@@ -4456,7 +4444,6 @@ const siteData = [
   ctaButtonHref: "#contact",
 },
 
-
 {
   slug: "painters-and-decorators-piccadilly",
 
@@ -4653,7 +4640,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "painters-primrose-hill",
@@ -5039,7 +5025,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "sloane-square-residential-decorators",
@@ -5988,7 +5973,6 @@ const siteData = [
   ctaButtonLabel: "Book Consultation",
   ctaButtonHref: "#contact",
 },
-
 
 {
   slug: "hampstead-garden-suburb",
@@ -7586,8 +7570,6 @@ const siteData = [
   ctaButtonLabel: "Book a Consultation",
   ctaButtonHref: "#contact",
 },
-
-
 
 ];
 

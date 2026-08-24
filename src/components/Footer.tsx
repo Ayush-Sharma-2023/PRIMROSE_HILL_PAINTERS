@@ -1,7 +1,7 @@
-import { Link } from 'react-router-dom';
-import { Phone, Mail, MapPin, Instagram, Facebook } from 'lucide-react';
-import { FOOTER_SERVICES } from '@/data/content';
-import Logo from './Logo';
+import { Link } from "react-router-dom";
+import { Phone, Mail, MapPin, Instagram, Facebook } from "lucide-react";
+import { FOOTER_SERVICES } from "@/data/content";
+import Logo from "./Logo";
 
 export default function Footer() {
   return (
@@ -31,19 +31,25 @@ export default function Footer() {
             <ul className="space-y-4 text-sm text-cream-100/70">
               <li className="flex items-start gap-3">
                 <Phone className="w-4 h-4 mt-0.5 text-rust-400 shrink-0" />
-                <a href="tel:+447788516436" className="hover:text-white transition-colors">
-                  +44 7788 516436
+                <a
+                  href="tel:+447788516436"
+                  className="hover:text-white transition-colors"
+                >
+                  {/* +44 7788 516436 */}
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="w-4 h-4 mt-0.5 text-rust-400 shrink-0" />
-                <a href="mailto:info@primrosehillpainters.co.uk" className="hover:text-white transition-colors break-all">
+                <a
+                  href="mailto:info@primrosehillpainters.co.uk"
+                  className="hover:text-white transition-colors break-all"
+                >
                   info@primrosehillpainters.co.uk
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 mt-0.5 text-rust-400 shrink-0" />
-                <span>Primrose Hill, NW8</span>
+                <span>London NW9</span>
               </li>
             </ul>
           </div>
@@ -74,8 +80,11 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-cream-100/10 flex flex-col md:flex-row justify-between gap-4 text-xs text-cream-100/40">
-          <p>© {new Date().getFullYear()} Primrose Hill Painters. All rights reserved.</p>
-          <p>Professional Painters & Decorators · Primrose Hill, NW8 · North London</p>
+          <p>
+            © {new Date().getFullYear()} Primrose Hill Painters. All rights
+            reserved.
+          </p>
+          <p>Professional Painters & Decorators · London NW9 · North London</p>
         </div>
       </div>
     </footer>
