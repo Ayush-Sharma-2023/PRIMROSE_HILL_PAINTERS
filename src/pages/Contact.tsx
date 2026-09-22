@@ -20,10 +20,10 @@ export default function Contact() {
       />
       <PageSection bg="cream">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto mb-20">
-          {/* <div className="bg-white p-8 text-center">
+          <div className="bg-white p-8 text-center">
             <Phone className="w-6 h-6 text-rust-700 mx-auto mb-3" />
             <h3 className="font-serif text-lg text-charcoal-800 mb-2">Call Us</h3>
-            <a href="tel:+447788516436" className="text-rust-700 hover:text-charcoal-800 transition-colors">+44 7788 516436</a>
+            <a href="tel:+447788516436" className="text-rust-700 hover:text-charcoal-800 transition-colors">(07788) 516436</a>
           </div>
           <div className="bg-white p-8 text-center">
             <MessageCircle className="w-6 h-6 text-rust-700 mx-auto mb-3" />
@@ -34,9 +34,9 @@ export default function Contact() {
               rel="noopener noreferrer"
               className="text-rust-700 hover:text-charcoal-800 transition-colors"
             >
-              +44 7788 516436
+              (07788) 516436
             </a>
-          </div> */}
+          </div>
 
 
           <div className="bg-white p-8 text-center">

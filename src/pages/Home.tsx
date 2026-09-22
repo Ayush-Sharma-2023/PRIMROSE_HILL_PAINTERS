@@ -301,10 +301,10 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto mb-20 text-center">
-            {/* <div className="bg-white p-8">
+            <div className="bg-white p-8">
               <h3 className="font-serif text-lg text-charcoal-800 mb-3">Call Us</h3>
               <a href="tel:+447788516436" className="text-rust-700 hover:text-charcoal-800 transition-colors text-lg">
-                +44 7788 516436
+                +44 77885 16436
               </a>
             </div>
             <div className="bg-white p-8">
@@ -315,9 +315,9 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="text-rust-700 hover:text-charcoal-800 transition-colors text-lg"
               >
-                +44 7788 516436
+                (07788) 516436
               </a>
-            </div> */}
+            </div>
             <div className="bg-white p-8">
               <h3 className="font-serif text-lg text-charcoal-800 mb-3">
                 Office
