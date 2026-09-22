@@ -82,11 +82,11 @@ const FAQS = [
     answer:
       'Often yes. Send your postcode, a brief scope, and 3–6 clear photos via WhatsApp or email for an initial estimate.',
   },
-  // {
-  //   question: 'Do you cover Hampstead, St John’s Wood and Regent’s Park?',
-  //   answer:
-  //     'Yes, these areas are commonly within our working radius. Share your postcode and we’ll confirm coverage quickly.',
-  // },
+  {
+    question: 'Do you cover Hampstead, St John’s Wood and Regent’s Park?',
+    answer:
+      'Yes, these areas are commonly within our working radius. Share your postcode and we’ll confirm coverage.',
+  },
   {
     question:
       'Do you work on listed buildings or homes in conservation areas in London?',
@@ -353,7 +353,7 @@ export default function Contact() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
-            <a
+            {/* <a
               href="tel:+447788516436"
               className="bg-white p-7 text-center hover:shadow-md transition-shadow"
             >
@@ -375,7 +375,7 @@ export default function Contact() {
                 WhatsApp Us
               </h3>
               <p className="text-sm text-rust-700">+44 7788 516436</p>
-            </a>
+            </a> */}
 
             <div className="bg-white p-7 text-center">
               <MapPin className="w-6 h-6 text-rust-700 mx-auto mb-4" />
