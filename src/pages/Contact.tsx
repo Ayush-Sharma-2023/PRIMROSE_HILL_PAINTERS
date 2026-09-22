@@ -19,7 +19,7 @@ export default function Contact() {
         bgImage="https://images.pexels.com/photos/18729245/pexels-photo-18729245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       />
       <PageSection bg="cream">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto mb-20">
+        {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto mb-20">
           <div className="bg-white p-8 text-center">
             <Phone className="w-6 h-6 text-rust-700 mx-auto mb-3" />
             <h3 className="font-serif text-lg text-charcoal-800 mb-2">Call Us</h3>
@@ -51,7 +51,7 @@ export default function Contact() {
               info@primrosehillpainters.co.uk
             </a>
           </div>
-        </div>
+        </div> */}
 
         <div className="text-center mb-12">
           <h2 className="font-serif text-2xl md:text-3xl text-charcoal-800 mb-2">Areas We Serve</h2>

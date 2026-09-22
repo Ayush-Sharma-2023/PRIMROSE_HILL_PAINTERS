@@ -29,7 +29,7 @@ export default function Footer() {
           <div>
             <h3 className="font-serif text-lg text-white mb-6">Contact</h3>
             <ul className="space-y-4 text-sm text-cream-100/70">
-              <li className="flex items-start gap-3">
+              {/* <li className="flex items-start gap-3">
                 <Phone className="w-4 h-4 mt-0.5 text-rust-400 shrink-0" />
                 <a
                   href="tel:07788516436"
@@ -37,7 +37,7 @@ export default function Footer() {
                 >
                   (07788) 516436
                 </a>
-              </li>
+              </li> */}
               <li className="flex items-start gap-3">
                 <Mail className="w-4 h-4 mt-0.5 text-rust-400 shrink-0" />
                 <a
