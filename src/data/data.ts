@@ -5995,7 +5995,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2024/11/be63e2fa8ee59ea1303ad2ab3f7eca4b.jpg",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Careful painting and decorating work in Hampstead Garden Suburb",
   craftsmanshipTitle:
@@ -6018,7 +6018,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Interior painting and joinery refinishing project in Hampstead Garden Suburb",
   caseStudyTitle:
@@ -6054,7 +6054,7 @@ const siteData = [
 
   servicesTitle: "Our Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Painting and decorating services in Hampstead Garden Suburb",
   servicesItems: [
@@ -6102,7 +6102,7 @@ const siteData = [
 
   faqTitle: "Frequently Asked Questions – Hampstead Garden Suburb NW11",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2024/11/7e3d592e98c60da7ce122f07257e33d6.jpg",
+    "/bg.png",
   faqImageAlt:
     "Professionally decorated residential interior in Hampstead Garden Suburb",
   faqItems: [
@@ -6176,7 +6176,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Careful decorating and interior painting in Green Park",
   craftsmanshipTitle:
@@ -6199,7 +6199,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Apartment repainting project near Green Park",
   caseStudyTitle:
@@ -6232,7 +6232,7 @@ const siteData = [
 
   servicesTitle: "Our Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Painting and decorating services available in Green Park",
   servicesItems: [
@@ -6280,7 +6280,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt: "Professional painting and decorating work in Green Park",
   faqItems: [
     {
@@ -6329,21 +6329,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Primrose Hill Painters fixed uneven walls left by another decorator. The finish now looks clean, smooth and much sharper.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Our office repaint was handled neatly with little disruption. The space now feels brighter, cleaner and more professional.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "They repaired old cracks, refreshed the woodwork and kept the hallway’s character. The result looks smart and natural.",
     },
@@ -6377,7 +6377,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Professional decorating and surface preparation in Golders Green",
   craftsmanshipTitle:
@@ -6401,7 +6401,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Edwardian family home decorating project in Golders Green",
   caseStudyTitle: "Recent Project Experience",
@@ -6435,7 +6435,7 @@ const siteData = [
 
   servicesTitle: "Our Golders Green Painting and Decorating Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Golders Green painting and decorating services",
   servicesItems: [
@@ -6483,7 +6483,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt:
     "Professional painting and decorating work in Golders Green",
   faqItems: [
@@ -6533,21 +6533,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "We had peeling paint near the windows. Primrose Hill Painters repaired the surface properly and the finish still looks clean and strong.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Our office needed decorating without stopping work. The team planned it well, worked neatly and gave the space a fresher look.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Previous decorating work looked uneven. Primrose Hill Painters fixed the surfaces properly and delivered a much cleaner finish.",
     },
@@ -6580,7 +6580,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Professional painting and decorating in Fitzrovia",
   craftsmanshipTitle:
@@ -6604,7 +6604,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Georgian apartment decorating project in Fitzrovia",
   caseStudyTitle: "Project Story",
@@ -6638,7 +6638,7 @@ const siteData = [
 
   servicesTitle: "Our Fitzrovia Painting & Decorating Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Fitzrovia painting and decorating services",
   servicesItems: [
@@ -6686,7 +6686,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt:
     "Professional decorating work in Fitzrovia",
   faqItems: [
@@ -6736,21 +6736,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "The team repainted our office with very little disruption. They worked neatly, kept us updated and finished on time. The space now looks cleaner and more professional.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Our flat had uneven walls and old paint issues. Primrose Hill Painters repaired everything properly before painting. The finish now looks smooth, fresh and well done.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "We needed a rental property decorated quickly between tenants. The team organised the job well, finished on schedule and left the flat ready for viewings.",
     },
@@ -6783,7 +6783,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Professional painting and decorating in Farringdon",
   craftsmanshipTitle:
@@ -6806,7 +6806,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Converted warehouse apartment decorating project in Farringdon",
   caseStudyTitle: "Recent Project Spotlight",
@@ -6840,7 +6840,7 @@ const siteData = [
 
   servicesTitle: "Our Painting & Decorating Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Farringdon painting and decorating services",
   servicesItems: [
@@ -6888,7 +6888,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt:
     "Professional decorating work in Farringdon",
   faqItems: [
@@ -6938,21 +6938,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Professional, reliable and tidy. The team completed our office redecoration with minimal disruption and delivered an excellent finish.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "They repaired damaged surfaces properly, explained everything clearly and left our flat looking fantastic.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Great attention to detail on our listed property. The finish looks excellent and respects the building’s original character.",
     },
@@ -6985,7 +6985,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Professional decorating work on Edgware Road properties",
   craftsmanshipTitle:
@@ -7007,7 +7007,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Apartment redecoration project on Edgware Road",
   caseStudyTitle: "Recent Project Story",
@@ -7041,7 +7041,7 @@ const siteData = [
 
   servicesTitle: "Our Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Edgware Road painting and decorating services",
   servicesItems: [
@@ -7089,7 +7089,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt:
     "Professional painting and decorating in Edgware Road",
   faqItems: [
@@ -7139,21 +7139,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "The team prepared every surface properly and delivered a smooth, high-quality finish. The property looks fresh and well maintained.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Excellent workmanship from start to finish. The decorators were professional, tidy, and respectful throughout the project.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "We are very pleased with the result. The rooms look brighter, cleaner, and far more attractive than before.",
     },
@@ -7186,7 +7186,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Traditional and modern decorating work in Eaton Square",
   craftsmanshipTitle:
@@ -7209,7 +7209,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Period apartment interior restoration in Eaton Square",
   caseStudyTitle: "Restoring a Period Apartment Interior",
@@ -7243,7 +7243,7 @@ const siteData = [
 
   servicesTitle: "Our Eaton Square Painting & Decorating Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "Eaton Square painting and decorating services",
   servicesItems: [
@@ -7291,7 +7291,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt:
     "Professional decorating work in Eaton Square",
   faqItems: [
@@ -7341,21 +7341,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "The team prepared our townhouse properly and fixed uneven surfaces before painting. The final finish looked clean, smooth and professional.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "They worked carefully around our furniture and original joinery. The project stayed tidy organised and finished to a high standard.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Primrose Hill Painters gave clear advice and noticed issues others missed. The finished rooms now look brighter, smarter and well cared for.",
     },
@@ -7389,7 +7389,7 @@ const siteData = [
   trustButtonHref: "#about",
 
   craftsmanshipImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   craftsmanshipImageAlt:
     "Professional decorating work in East Finchley",
   craftsmanshipTitle:
@@ -7413,7 +7413,7 @@ const siteData = [
   ],
 
   caseStudyImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   caseStudyImageAlt:
     "Edwardian family home decorating project in East Finchley",
   caseStudyTitle: "Complete Home Transformation",
@@ -7446,7 +7446,7 @@ const siteData = [
 
   servicesTitle: "Our Painting and Decorating Services",
   servicesImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   servicesImageAlt:
     "East Finchley painting and decorating services",
   servicesItems: [
@@ -7494,7 +7494,7 @@ const siteData = [
 
   faqTitle: "FAQ",
   faqImage:
-    "https://primrosehillpainters.co.uk/wp-content/uploads/2023/11/%D1%84%D0%BE%D1%82%D0%BE-400x600-1.png",
+    "/bg.png",
   faqImageAlt:
     "Professional painting and decorating in East Finchley",
   faqItems: [
@@ -7544,21 +7544,21 @@ const siteData = [
     {
       name: "Daniel R",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "The team prepared every surface properly and the final finish looked clean, smooth and professional. The work was completed neatly and on time.",
     },
     {
       name: "Sophie L",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "Our rental property needed a quick refresh before tenants moved in. The decorating was tidy, efficient and made the rooms look much brighter.",
     },
     {
       name: "Michael H",
       image:
-        "https://primrosehillpainters.co.uk/wp-content/uploads/2024/09/Profile_avatar_placeholder_large.png",
+        "/avatar.png",
       quote:
         "After repair work, several rooms needed repainting. Primrose Hill Painters kept everything simple, organised and delivered a very good finish.",
     },

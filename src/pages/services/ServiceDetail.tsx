@@ -231,7 +231,7 @@ export default function ServiceDetail() {
           </h2>
 
           <div className="mx-auto mt-10 grid max-w-6xl grid-cols-1 gap-10 md:grid-cols-3">
-            {site.testimonialsItems.map(
+            {site.testimonialsItems?.map(
               (testimonial: { name: string; rating: number; text: string }) => (
                 <article key={testimonial.name} className="text-center">
                   <div className="mx-auto mb-5 flex h-16 w-16 items-center justify-center rounded-full bg-white text-3xl text-[#aaa]">
