@@ -72,11 +72,11 @@ const SERVICES = [
 ];
 
 const FAQS = [
-  {
-    question: 'What’s the best way to contact your painters in Primrose Hill (NW8)?',
-    answer:
-      'Call +44 7788 516436 or WhatsApp the same number for the fastest response.',
-  },
+  // {
+  //   question: 'What’s the best way to contact your painters in Primrose Hill (NW8)?',
+  //   answer:
+  //     'Call +44 7788 516436 or WhatsApp the same number for the fastest response.',
+  // },
   {
     question: 'Can I get a quote without a site visit?',
     answer:

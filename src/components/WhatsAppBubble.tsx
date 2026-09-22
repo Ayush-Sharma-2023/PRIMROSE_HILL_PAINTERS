@@ -32,14 +32,14 @@ export default function WhatsAppBubble() {
               <p>Hi! Click one of our member below to chat on WhatsApp</p>
             </div>
           </div>
-          <a
+          {/* <a
             href={WHATSAPP_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="block bg-[#25D366] text-white text-center py-3 text-sm font-semibold hover:bg-[#1da851] transition-colors"
           >
             Start Chat
-          </a>
+          </a> */}
         </div>
       )}
 

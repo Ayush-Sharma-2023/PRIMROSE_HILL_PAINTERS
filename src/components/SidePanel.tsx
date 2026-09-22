@@ -99,9 +99,9 @@ export default function SidePanel({
           >
             Get a Quote
           </a>
-          <p className="mt-4 text-xs text-charcoal-400 text-center tracking-wide">
+          {/* <p className="mt-4 text-xs text-charcoal-400 text-center tracking-wide">
             London NW9 · (07788) 516436
-          </p>
+          </p> */}
         </div>
       </aside>
     </>
