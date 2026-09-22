@@ -100,7 +100,7 @@ export default function SidePanel({
             Get a Quote
           </a>
           <p className="mt-4 text-xs text-charcoal-400 text-center tracking-wide">
-            London NW9 · +44 7788 516436
+            London NW9 · (07788) 516436
           </p>
         </div>
       </aside>

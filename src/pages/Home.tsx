@@ -282,7 +282,7 @@ export default function Home() {
             our Privacy Policy.
           </p>
           <a
-            href="https://api.whatsapp.com/send?phone=447788516436&text=Chat%20to%20us%20now%20on%20WhatsApp"
+            href="https://api.whatsapp.com/send?phone=07788516436&text=Chat%20to%20us%20now%20on%20WhatsApp"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
